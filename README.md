@@ -2,8 +2,8 @@
 Course: Algorithms for Data Science at Shahid Beheshti University
 
 ## Main TextBooks:
-Data Mining and Analysis: Fundamental Concepts and Algorithms by Mohammed J. Zaki and Wagner Meira Jr.
-Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.
+[Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.
+[Mining of Massive Datasets](http://web.stanford.edu/class/cs246/handouts.html) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.
 
 ### Class time, Location and Examinations:
 Saturday and Monday 08:00-10:00 AM (Fall 2018), Room 206. 
