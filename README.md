@@ -2,12 +2,13 @@
 Course: Algorithms for Data Science at Shahid Beheshti University
 
 ## Main TextBooks:
-[Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.
-[Mining of Massive Datasets](http://web.stanford.edu/class/cs246/handouts.html) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.
+* [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.
+* [Mining of Massive Datasets](http://web.stanford.edu/class/cs246/handouts.html) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.
 
-### Class time, Location and Examinations:
+## Class time, Location and Examinations:
 Saturday and Monday 08:00-10:00 AM (Fall 2018), Room 206. 
-Two written exams:
+
+### Two written exams:
 Midterm Examination: Saturday 1397/09/10, 08:00-10:00
 
 ## Grading:
@@ -16,13 +17,13 @@ Homework – 15%
 Midterm – 35%
 Endterm – 50%
 
-### Prerequisites:
+## Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
 
 ## Course Project Resources:
 Several programming assignments that cover the topic of the course. Students individually implement given assignments in recommended language or tool, and periodically demonstrate the progress to teaching assistants. The following resources may be helpful for those still undecided about their course project.
 
-### Datasets:
+## Datasets:
 DataHub has a lot of structured data in formats such as RDF and CSV. 
 UC Irvine Machine Learning Repository
 CrowdFlower Data for Everyone library
