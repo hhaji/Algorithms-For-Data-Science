@@ -13,7 +13,7 @@ Reading: Chapters 13, 14, 15, 16, and 17
 * [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) ([Practical Data Science](http://www.datasciencecourse.org/lectures/))
 * [Jupyer Notebook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) ([Practical Data Science](http://www.datasciencecourse.org/lectures/))
 * [Data Mining & Mapreduce,](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by [Irene Finocchi](http://wwwusers.di.uniroma1.it/~finocchi/) 
-* [Introduction to Data Mining: Basics](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf) by [U Kang](https://datalab.snu.ac.kr/~ukang/)
+* [Introduction to Data Mining: Basics](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf) by [U Kang](https://datalab.snu.ac.kr/~ukang/) 
 
 
 ## Class time, Location and Examinations:
