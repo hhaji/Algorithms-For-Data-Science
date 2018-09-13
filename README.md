@@ -7,10 +7,11 @@ Place: [Applied and Industrial Mathematics Group](http://www.sbu.ac.ir/Cols/math
 * [Mining of Massive Datasets](http://web.stanford.edu/class/cs246/handouts.html) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.
 
 ## Class time, Location and Examinations:
-Saturday and Monday 08:00-10:00 AM (Fall 2018), Room 206. 
+Saturday and Monday 08:00-09:30 AM (Fall 2018), Room 206. 
 
 ### Two written exams:
 Midterm Examination: Saturday 1397/09/10, 08:00-10:00
+Final Examination:
 
 ## Grading:
 * Homework – 15% <br>
