@@ -8,8 +8,8 @@ Course: Algorithms for Data Science <br>
 * [Mining of Massive Datasets](http://web.stanford.edu/class/cs246/handouts.html) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.
 
 ## Extra Slides:
-* [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf)([Practical Data Science](http://www.datasciencecourse.org/lectures/))
-* [Jupyer Notebook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf)([Practical Data Science](http://www.datasciencecourse.org/lectures/))
+* [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) ([Practical Data Science](http://www.datasciencecourse.org/lectures/))
+* [Jupyer Notebook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) ([Practical Data Science](http://www.datasciencecourse.org/lectures/))
 * [Data Mining & Mapreduce,](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by [Irene Finocchi](http://wwwusers.di.uniroma1.it/~finocchi/) 
 * [Introduction to Data Mining: Basics](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf) by [U Kang](https://datalab.snu.ac.kr/~ukang/)
 
