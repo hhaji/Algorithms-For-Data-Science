@@ -29,18 +29,6 @@ Have a look at some reports of [Kaggle](https://www.kaggle.com/) or Stanford stu
 ## Account:
 It is necessary to have a [GitHub](https://github.com/) account to share your projects. It offers plans for both private repositories and free accounts. Github is like the hammer in your toolbox, therefore, you need to have it!
 
-## Coding:
-You may also find it helpful to read Python and its wonderful libraries (Pandas, NumPy, Scikit-learn, SciPy, Seaborn, Matplotlib), but note that in this course it’s really not necessary to know Python. Instead, just use one of the following softwares to figure things out along the way.
-
-* [Orange](http://orange.biolab.si/), open source data analytics and mining through visual programming or Python scripting. Components for visualization, rule learning, clustering, model evaluation, and more.
-* [RapidMiner](http://rapidminer.com/), makes data science teams more productive through a unified platform for data prep, machine learning, and model deployment.
-* [Weka](http://www.cs.waikato.ac.nz/ml/weka/index.html), collection of machine learning algorithms for solving real-world data mining problems. It is written in Java and runs on almost any platform.
-
-To know more softwares, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
-
-* [Software Suites/Platforms for Analytics, Data Mining, Data Science, and Machine Learning
-Python](https://www.kdnuggets.com/software/suites.html)
-
 ## Academic Honor Code:
 Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
 
