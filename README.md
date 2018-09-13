@@ -1,5 +1,5 @@
-# [Algorithms For Data Science (Fall 2018)](http://facultymembers.sbu.ac.ir/hhaji/algorithms-for-data-science/)
-Course: Algorithms for Data Science <\br>
+# Algorithms For Data Science (Fall 2018)
+Course: Algorithms for Data Science <br>
 Place: [Applied and Industrial Mathematics Group](http://www.sbu.ac.ir/Cols/mathsci/Pages/گروه-ریاضی-کاربردی-و-صنعتی.aspx), [Shahid Beheshti University](http://www.sbu.ac.ir/)
 
 ## Main TextBooks:
@@ -63,7 +63,7 @@ You can learn python via SoloLearn (A great website for getting started with cod
 If you want practice Python more, then we recommend to solve the problems of Project Euler!
 
 ## Academic Honor Code:
-Honesty and integrity are the vital elements of academic works. All your submitted assignments must be entirely your own (or your own group’s).
+Honesty and integrity are central to the academic work. All your submitted assignments must be entirely your own (or your own group’s).
 
 ## Questions?
 I’ll be having office hours for this course on Monday 10:00 AM–12:00 AM. If this isn’t convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
