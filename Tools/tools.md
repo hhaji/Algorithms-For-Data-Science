@@ -15,7 +15,7 @@
 * [Git Lab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 * [GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
 
-## Slides:
+### Slides:
 * [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf)
 * [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire
 
