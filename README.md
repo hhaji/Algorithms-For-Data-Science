@@ -1,6 +1,7 @@
 # [Algorithms For Data Science (Fall 2018)](http://facultymembers.sbu.ac.ir/hhaji/algorithms-for-data-science/)
 Course: Algorithms for Data Science <br>
-Place: [Applied and Industrial Mathematics Group](http://www.sbu.ac.ir/Cols/mathsci/Pages/گروه-ریاضی-کاربردی-و-صنعتی.aspx), [Shahid Beheshti University](http://www.sbu.ac.ir/)
+[Data Science Center](http://ds.sbu.ac.ir)<br> 
+[Shahid Beheshti University](http://www.sbu.ac.ir/)
 
 ## Main TextBooks:
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.
