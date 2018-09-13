@@ -33,7 +33,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [Practical Programming (2nd edition): An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming) by Paul Gries, Jennifer Campbell, and Jason Montojo, 2013.
 * The Python Tutorial ([available from the Python website](https://docs.python.org/3.6/tutorial/))
 
-### [Project Euler](https://projecteuler.net/)
+### Project Euler
 If you want practice Python more, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)!
 
 ### Anaconda
