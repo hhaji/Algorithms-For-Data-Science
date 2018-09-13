@@ -1,4 +1,4 @@
-# Algorithms For Data Science (Fall 2018)
+# [Algorithms For Data Science (Fall 2018)](http://facultymembers.sbu.ac.ir/hhaji/algorithms-for-data-science/)
 Course: Algorithms for Data Science <br>
 Place: [Applied and Industrial Mathematics Group](http://www.sbu.ac.ir/Cols/mathsci/Pages/گروه-ریاضی-کاربردی-و-صنعتی.aspx), [Shahid Beheshti University](http://www.sbu.ac.ir/)
 
@@ -13,8 +13,7 @@ Saturday and Monday 08:00-10:00 AM (Fall 2018), Room 206.
 Midterm Examination: Saturday 1397/09/10, 08:00-10:00
 
 ## Grading:
-* Homework – 15%
-
+* Homework – 15% <br>
 — Will consist of mathematical problems and/or programming assignments.
 * Midterm – 35%
 * Endterm – 50%
@@ -66,4 +65,4 @@ If you want practice Python more, then we recommend to solve the problems of [Pr
 Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
 
 ## Questions?
-I’ll be having office hours for this course on Monday 10:00 AM–12:00 AM. If this isn’t convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
+I'll be having office hours for this course on Saturday and Monday (09:30 AM--12:00 AM). If this isn't convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
