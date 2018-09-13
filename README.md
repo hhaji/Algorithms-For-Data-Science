@@ -5,7 +5,7 @@ Course: Algorithms for Data Science <br>
 
 ## Main TextBooks & Slides:
 * [Mining of Massive Datasets](http://web.stanford.edu/class/cs246/handouts.html) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.<br>
-Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), Chapter 5
+Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
 Reading: Chapters 13, 14, 15, 16, and 17
 
