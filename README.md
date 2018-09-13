@@ -11,7 +11,7 @@ Course: Algorithms for Data Science <br>
 Saturday and Monday 08:00-09:30 AM (Fall 2018), Room 206. 
 
 ### Two written exams:
-Midterm Examination: Saturday 1397/09/10, 08:00-10:00
+Midterm Examination: Saturday 1397/09/10, 08:00-10:00 <br>
 Final Examination:
 
 ## Grading:
