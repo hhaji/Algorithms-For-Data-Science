@@ -23,18 +23,6 @@ Final Examination:
 ## Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
 
-## Course Project Resources:
-Several programming assignments that cover the topic of the course. Students individually implement given assignments in recommended language or tool, and periodically demonstrate the progress to teaching assistants. The following resources may be helpful for those still undecided about their course project.
-
-## Datasets:
-* [DataHub](https://datahub.io/) has a lot of structured data in formats such as RDF and CSV. 
-* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
-* [CrowdFlower Data for Everyone library](http://www.crowdflower.com/data-for-everyone)
-* [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)
-
-To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
-* [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
-
 ## Topics:
 Have a look at some reports of [Kaggle](https://www.kaggle.com/) or Stanford students ([CS224N](http://nlp.stanford.edu/courses/cs224n/2015/), [CS224D](http://cs224d.stanford.edu/reports_2016.html)) to get some general inspiration.
 
