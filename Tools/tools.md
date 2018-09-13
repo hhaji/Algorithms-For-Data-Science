@@ -3,6 +3,8 @@
 * [Resources to learn Git](https://try.github.io)
 * Learn Git from [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Practice Git Online](https://learngitbranching.js.org)
+* [Git Book](https://git-scm.com/book/en/v2)
+* [Git Tutorial](http://www.cs.columbia.edu/~sedwards/classes/2013/4840/git-tutorial.pdf) by Jae Woo Lee and Stephen A. Edwards
 
 ### Videos:
 * [Parsclick (Git: In Persian)](https://parsclick.net/course/PL3Y-E4YSE4wYFlcomsBtJy1nCu3jclA8L)
@@ -12,6 +14,10 @@
 * [GitHub Training](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Git Lab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 * [GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
+
+## Slides:
+* [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf)
+* [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire
 
 ## Programming Language 
 You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning). Also, we recommend the following references: 
