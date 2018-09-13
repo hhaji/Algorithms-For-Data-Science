@@ -9,7 +9,7 @@ Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), Chapter 5
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
 Reading: Chapters 13, 14, 15, 16, and 17
 
-## Extra Slides:
+### Extra Slides:
 * [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) ([Practical Data Science](http://www.datasciencecourse.org/lectures/))
 * [Jupyer Notebook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) ([Practical Data Science](http://www.datasciencecourse.org/lectures/))
 * [Data Mining & Mapreduce,](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by [Irene Finocchi](http://wwwusers.di.uniroma1.it/~finocchi/) 
