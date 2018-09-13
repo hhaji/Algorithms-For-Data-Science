@@ -7,6 +7,11 @@ Course: Algorithms for Data Science <br>
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.
 * [Mining of Massive Datasets](http://web.stanford.edu/class/cs246/handouts.html) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.
 
+## Extra Slides:
+* [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf)([Practical Data Science](http://www.datasciencecourse.org/lectures/))
+* [Jupyer Notebook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf)([Practical Data Science](http://www.datasciencecourse.org/lectures/))
+
+
 ## Class time, Location and Examinations:
 Saturday and Monday 08:00-09:30 AM (Fall 2018), Room 206. 
 
