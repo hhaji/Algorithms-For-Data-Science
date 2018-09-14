@@ -45,4 +45,8 @@ If you want practice Python more, then we recommend to solve the problems of [Pr
 ### Jupyter
 * [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 
+## Command Prompt Cheatsheets
+* [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
+* [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf)
+
 
