@@ -18,7 +18,7 @@
 ### Slides:
 * [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf)
 * [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire
-* [A quick (and maybe practical) guide to Git and version control,](http://sites.utexas.edu/asa-student-chapter/files/2016/04/Grad_Skills_Seminar_11-17-17_Git_and_Version_Control.pdf) by Jay Johnson
+* [A Quick Guide to Git and Version Control,](http://sites.utexas.edu/asa-student-chapter/files/2016/04/Grad_Skills_Seminar_11-17-17_Git_and_Version_Control.pdf) by Jay Johnson
 
 ## Markdown
 * [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
