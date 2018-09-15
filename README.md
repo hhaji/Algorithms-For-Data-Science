@@ -20,7 +20,7 @@ Reading: Chapters 13, 14, 15, 16, and 17
 Saturday and Monday 08:00-09:30 AM (Fall 2018), Room 206. 
 
 ### Two written exams:
-Midterm Examination: Saturday 1397/09/10, 08:00-10:00 <br>
+Midterm Examination: Monday 1397/09/12, 08:00-10:00 <br>
 Final Examination:
 
 ## Grading:
