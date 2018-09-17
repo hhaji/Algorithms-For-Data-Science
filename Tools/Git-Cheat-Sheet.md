@@ -1,4 +1,4 @@
-# Git Commands
+# Git Cheat Sheet
 
 
 Git Command | Description
