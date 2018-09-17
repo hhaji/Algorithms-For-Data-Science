@@ -5,7 +5,6 @@ Git Command | Description
 ------------|------------
 git init | Creates a new Git repository
 git add filename | Add the file to staging index
-
 git status | List all new or modified files to be committed
 git log | Show committed files
 git log --oneline | 
