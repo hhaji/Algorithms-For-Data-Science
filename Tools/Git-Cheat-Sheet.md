@@ -16,7 +16,7 @@ git branch branch-name | Create a branch whose name is branch-name
 git branch --m oldname new-name | Change the name of branch
 git branch --d branch-name | Delete the branch
 git branch | List branches
-git checkout branch-name | switch to branch-name
+git checkout branch-name | Switch to branch-name
 git checkout -- filename | Discrad changes in the working directory
 git merge branch-name | Incorporate changes from the named commits (since the time their histories diverged from the current branch) into the current branch
 git ls-tree branch-name | List the contents of branch-name, like hash Value
