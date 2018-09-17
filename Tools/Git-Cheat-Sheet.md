@@ -5,7 +5,9 @@ Git Command | Description
 ------------|------------
 git init | Creates a new Git repository
 git add filename | Add the file to staging index
+git add . | Add all files from working directory to staging index
 git status | List all new or modified files to be committed
+git commit -m "message" | Add files from staging index to repository committed by the "message"
 git log | Show committed files
 git log --oneline | 
 git ls-tree <given tree: like master> | List the contents of a given tree object, like Hash Value
