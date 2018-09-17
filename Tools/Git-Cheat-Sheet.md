@@ -3,7 +3,7 @@
 
 Git Command | Description
 ------------|------------
-git init | Creates a new Git repository
+git init | Create a new Git repository
 git add filename | Add the file to staging index
 git add . | Add all files from working directory to staging index
 git status | List all new or modified files to be committed
