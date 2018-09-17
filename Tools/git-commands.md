@@ -3,10 +3,4 @@
 
 Git Command | Description
 ------------|------------
-   test         |      o
-   test         |      o
-   test     |      o
-      yyy   |            j
-              |
-            |
-            |
+git reset --soft (hash value) | chage the place of Head to new place (hash value)
