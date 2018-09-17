@@ -4,6 +4,9 @@
 Git Command | Description
 ------------|------------
 git init | Create a new Git repository
+git config --global user.name "[name]" | Sets the name you want to attach to your commit transactions 
+git config --global user.email "[email address]" | Sets the email you want to attach to your commit transactions 
+git config --global alias.arbitrary_name "command name" | Change the "command name" to arbitrary_name
 git add filename | Add the file to staging index
 git add . | Add all files from working directory to staging index
 git status | List all new or modified files to be committed
