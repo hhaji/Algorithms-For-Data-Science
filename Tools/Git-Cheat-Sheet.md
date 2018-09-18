@@ -32,9 +32,9 @@ git reset --hard (hash value) | Make your current branch (typically master ) bac
 git reset HEAD filename | Unstage filename
 <br>
 
-Description | Instance
-------------|---------
-_**An Applied Alias**_ | git config --global alias.logg "log --graph --decorate --oneline --abbrev-commit --all"
+Alias | Code (Should be Run in Terminal)
+------|-------------------------------
+git logg | git config --global alias.logg "log --graph --decorate --oneline --abbrev-commit --all"
 
 
 
