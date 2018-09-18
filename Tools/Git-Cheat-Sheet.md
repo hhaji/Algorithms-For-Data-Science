@@ -1,13 +1,12 @@
 # Git Cheat Sheet
 
 
-Git Commands or Instance | Description
--------------------------|-------------------------
+Git Commands  | Description
+--------------|------------
 git init | Create a new Git repository
 git config --global user.name "[name]" | Sets the name you want to attach to your commit transactions 
 git config --global user.email "[email address]" | Sets the email you want to attach to your commit transactions 
 git config --global alias.arbitrary_name "command name" | Change the "command name" to arbitrary_name
-_**An Applied Alias**_ |git config --global alias.logg "log --graph --decorate --oneline --abbrev-commit --all"
 git add filename | Add the file to staging index
 git add . | Add all files from working directory to staging index
 git status | List all new or modified files to be committed
@@ -31,5 +30,10 @@ git reset --soft (hash value) | Reset the place of HEAD pointer. Does not touch 
 git reset --mixed (hash value) | Reset the place of HEAD pointer. Reset the index but not the working tree (i.e., the changed files are preserved but not marked for commit) and reports what has not been updated
 git reset --hard (hash value) | Make your current branch (typically master ) back to point at hash value and make the files in your working tree and staging index the same as the versions committed in the has value
 git reset HEAD filename | Unstage filename
+
+Description | Instance
+----------------------
+_**An Applied Alias**_ |git config --global alias.logg "log --graph --decorate --oneline --abbrev-commit --all"
+
 
 
