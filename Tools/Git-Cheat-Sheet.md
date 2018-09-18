@@ -30,10 +30,12 @@ git reset --soft (hash value) | Reset the place of HEAD pointer. Does not touch 
 git reset --mixed (hash value) | Reset the place of HEAD pointer. Reset the index but not the working tree (i.e., the changed files are preserved but not marked for commit) and reports what has not been updated
 git reset --hard (hash value) | Make your current branch (typically master ) back to point at hash value and make the files in your working tree and staging index the same as the versions committed in the has value
 git reset HEAD filename | Unstage filename
+<br>
 
 Description | Instance
-----------------------
+------------|---------
 _**An Applied Alias**_ | git config --global alias.logg "log --graph --decorate --oneline --abbrev-commit --all"
+
 
 
 
