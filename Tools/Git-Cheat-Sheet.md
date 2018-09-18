@@ -12,6 +12,7 @@ git add "file_name" | Add the file to staging index
 git add . | Add all files from working directory to staging index
 git status | List all new or modified files to be committed
 git commit -m "message" | Add files from staging index to repository committed by the "message"
+git commit --amend -m "new_message" | Change the commit message by using the amend flag
 git log | Show committed files
 git log --oneline | List one commit per line and it shows the first 7 characters of the hash value and the commit message.
 git diff | View difference between staging index and working directory
@@ -44,6 +45,7 @@ git push origin "branch_name" | Push "branch_name" to remote
 git pull origin <branch> | Pull the most recent changes from that remote branch
 git clone <URL> | Copy a repo from URL
 git revert HEAD | Revert the previous commit
+git submodule add https://github.com/user/sub_repo big_repo | Add an existing Git repo (sub_repo) of a user as a submodule of the repo (big_repo) that you are working on
 <br>
 
 # Aliases
