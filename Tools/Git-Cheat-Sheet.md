@@ -39,7 +39,8 @@ git reset HEAD "file_name" | Unstage "file_name"
 git reset HEAD^ | Pop your last commit out of the history
 git tag | List all tags
 git remote -v | List the URL of the remote repo
-git remote add origin (URL)  | Associate your repo with URL 
+git remote add origin (URL)  | Associate your repo with remote 
+git remote set-url origin (URL) | Update an existing remote
 git push origin "branch_name" | Push "branch_name" to remote
 git pull origin (branch_name) | Pull the most recent changes from that remote branch
 git clone (URL) | Copy a repo from URL
