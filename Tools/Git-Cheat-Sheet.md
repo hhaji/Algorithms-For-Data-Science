@@ -45,7 +45,7 @@ git push origin "branch_name" | Push "branch_name" to remote
 git pull origin <branch> | Pull the most recent changes from that remote branch
 git clone <URL> | Copy a repo from URL
 git revert HEAD | Revert the previous commit
-git submodule add https://github.com/user/sub_repo big_repo | Add an existing Git repo (sub_repo) of a user as a submodule of the repo (big_repo) that you are working on
+git submodule add URL/User_name/sub_repo big_repo | Add an existing Git repo (sub_repo) of the user as a submodule of the repo (big_repo) that you are working on
 <br>
 
 # Aliases
