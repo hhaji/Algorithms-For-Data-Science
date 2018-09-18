@@ -23,18 +23,21 @@ git branch --m oldname new-name | Change the name of branch
 git branch --d branch-name | Delete the branch
 git branch | List branches
 git checkout branch-name | Switch to branch-name
+git checkout remotes/origin/branch-name | Switch to a remote branch-name
 git checkout -- filename | Discrad changes in the working directory
+git checkout (hash value) | Switch to a specific commit (determined by hash value)
 git merge branch-name | Incorporate changes from the named commits (since the time their histories diverged from the current branch) into the current branch
 git ls-tree branch-name | List the contents of branch-name, like hash Value
 git reset --soft (hash value) | Reset the place of HEAD pointer. Does not touch the index file or the working tree at all. Also, move the files (after new HEAD pointer place) from repo to staging index
 git reset --mixed (hash value) | Reset the place of HEAD pointer. Reset the index but not the working tree (i.e., the changed files are preserved but not marked for commit) and reports what has not been updated
 git reset --hard (hash value) | Make your current branch (typically master ) back to point at hash value and make the files in your working tree and staging index the same as the versions committed in the has value
 git reset HEAD filename | Unstage filename
+git reset HEAD^ | Pop your last commit out of the history
 <br>
 
-Alias | Code (Should be Run in Terminal)
-------|-------------------------------
-git logg | git config --global alias.logg "log --graph --decorate --oneline --abbrev-commit --all"
+Alias | Code (Should be Run in Terminal) | Description
+------|----------------------------------|------------
+git logg | git config --global alias.logg "log --graph --decorate --oneline --abbrev-commit --all" | Display a graphic log on one line various colours including branch names, commits, hash values, etc.
 
 
 
