@@ -40,7 +40,6 @@ git reset HEAD^ | Pop your last commit out of the history
 git tag | List all tags
 git remote -v | List the URL of the remote repo
 git remote add origin (URL)  | Associate your repo with URL 
-git remote set-url origin (URL) | Use this command when you want to transfer the repo of the others to your URL
 git push origin "branch_name" | Push "branch_name" to remote
 git pull origin (branch_name) | Pull the most recent changes from that remote branch
 git clone (URL) | Copy a repo from URL
