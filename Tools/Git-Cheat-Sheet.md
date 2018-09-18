@@ -33,7 +33,7 @@ git reset HEAD filename | Unstage filename
 
 Description | Instance
 ----------------------
-_**An Applied Alias**_ |git config --global alias.logg "log --graph --decorate --oneline --abbrev-commit --all"
+_**An Applied Alias**_ | git config --global alias.logg "log --graph --decorate --oneline --abbrev-commit --all"
 
 
 
