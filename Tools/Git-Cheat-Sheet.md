@@ -56,7 +56,7 @@ Alias | Code (Should be Run in Terminal) | Description
 ------|----------------------------------|------------
 git logg | git config --global alias.logg "log --graph --decorate --oneline --abbrev-commit --all" | Display a graphic and readable log on one line using various colours
 
-# Setup a Git credential helper
+# Setup a Git Credential Helper
 Rather than entering your GitHub username and password every time you push, you can setup a Git credential helper to manage this for you.
 
 OS | Command 
