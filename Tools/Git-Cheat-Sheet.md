@@ -32,6 +32,8 @@ git checkout -- "file_name" | Discrad changes in the working directory
 git checkout "hash value" | Switch to a specific commit (determined by hash value)
 git merge "branch_name" | Incorporate changes from the named commits (since the time their histories diverged from the current branch) into the current branch
 git ls-tree "branch_name" | List the contents of "branch_name", like hash Value
+gi rm "filename" | Remove  "filename"
+gi rm -r "foldername" | Remove  "foldername"
 git reset --soft "hash value" | Reset the place of HEAD pointer. Does not touch the index file or the working tree at all. Also, move the files (after new HEAD pointer place) from repo to staging index
 git reset --mixed "hash value" | Reset the place of HEAD pointer. Reset the index but not the working tree (i.e., the changed files are preserved but not marked for commit) and reports what has not been updated
 git reset --hard "hash value" | Make your current branch (typically master ) back to point at hash value and make the files in your working tree and staging index the same as the versions committed in the has value
