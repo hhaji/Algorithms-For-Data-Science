@@ -29,8 +29,8 @@ git branch -m "new" | Rename current branch to "new"
 git checkout -b "branch_name" | Create the branch and switch to this branch
 git checkout "branch_name" | Switch to "branch_name"
 git checkout remotes/origin/"branch_name" | Switch to a remote "branch_name"
-git checkout -- "file_name" | Discrad changes in the working directory
-git checkout "hash value" | Switch to a specific commit (determined by hash value)
+git checkout -- "file_name" | Discrad changes in the working directory. Here -- means to stay in the same branch. This confirms that "file_name" is not a name of a branch otherwise it switchs to "branch_name"
+git checkout "hash value" | Switch to a specific commit (determined by hash value) and discrad changes in the working directory
 git merge "branch_name" | Incorporate changes from the named commits (since the time their histories diverged from the current branch) into the current branch
 git ls-tree "branch_name" | List the contents of "branch_name", like hash Value
 gi rm "filename" | Remove  "filename"
