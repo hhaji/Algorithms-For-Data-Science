@@ -14,7 +14,8 @@ git status | List all new or modified files to be committed
 git commit -m "message" | Add files from staging index to repository committed by the "message"
 git commit --amend -m "new_message" | Change the commit message by using the amend flag
 git log | Show committed files
-git log --oneline | List one commit per line and it shows the first 7 characters of the hash value and the commit message.
+git log --oneline | List one commit per line and it shows the first 7 characters of the hash value and the commit message
+git log > file.txt | Save git log as file.txt
 git diff | View difference between staging index and working directory
 git diff "hash values" | Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, or changes between two files on disk
 git diff --staged | View difference between HEAD and staging index
