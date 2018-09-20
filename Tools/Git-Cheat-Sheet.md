@@ -23,11 +23,11 @@ git branch --m "old_name" "new_name" | Change the old name of the branch to new 
 git branch --d "branch_name" | Delete the branch
 git branch | List branches
 git branch -m "new" | Rename current branch to "new"
-git checkout -b "branch_name" | Create the branch and switch to this branch
 git checkout "branch_name" | Switch to "branch_name"
+git checkout -b "branch_name" | Create the branch and switch to this branch
 git checkout remotes/origin/"branch_name" | Switch to a remote "branch_name"
 git checkout -- "file_name" | Discard changes in the working directory. Here -- means to stay in the same branch which  confirms that "file_name" is not the name of a branch otherwise it switches to "branch_name"
-git checkout "SHA1 hash" | Switch to a specific commit (determined by SHA1 hash) and detached HEAD.  Moreover, it is safe and does not overwrite local changes in the working directory
+git checkout "SHA1 hash" | Switch to a specific commit (determined by SHA1 hash) and **detached HEAD from branch. When HEAD is detached, then it is necessary to point pointer to a branch (e.g. git rebase HEAD branch_name, git checkout old_branch_name, git checkout -b new_branch)**.  Moreover, it is safe and does not overwrite local changes in the working directory
 git merge "branch_name" | Incorporate changes from the named commits (since the time their histories diverged from the current branch) into the current branch
 git log | Show committed files
 git log --oneline | List one commit per line and it shows the first 7 characters of the SHA1 hash and the commit message
