@@ -27,7 +27,7 @@ git checkout "branch_name" | Switch to "branch_name"
 git checkout -b "branch_name" | Create the branch and switch to this branch
 git checkout remotes/origin/"branch_name" | Switch to a remote "branch_name"
 git checkout -- "file_name" | Discard changes in the working directory. Here -- means to stay in the same branch which  confirms that "file_name" is not the name of a branch otherwise it switches to "branch_name"
-git checkout "SHA1 hash" | Switch to a specific commit (determined by SHA1 hash) and **detached HEAD from branch. When HEAD is detached, then it is necessary to point pointer to a branch by running: "git rebase HEAD branch_name" OR "git checkout old_branch_name" OR "git checkout -b new_branch_name"**.  Moreover, it is safe and does not overwrite local changes in the working directory
+git checkout "SHA1 hash" -- "filename" | Switch to a specific commit (determined by SHA1 hash). This command is safe and does not overwrite local changes in the working directory. Here HEAD is not detached because of "--".
 git merge "branch_name" | Incorporate changes from the named commits (since the time their histories diverged from the current branch) into the current branch
 git log | Show committed files
 git log --oneline | List one commit per line and it shows the first 7 characters of the SHA1 hash and the commit message
@@ -57,6 +57,7 @@ git submodule add URL/User_name/module_repo name_repo | Add an existing Git repo
 
 * Note that origin should be replaced with remote address if remote was not added. 
 * Git's push --force is destructive because it unconditionally overwrites the remote repository with whatever you have locally. Instead of git push --force option, use git push --force-with-lease. See this article from [Atlassian](https://developer.atlassian.com/blog/2015/04/force-with-lease/).
+* Note that the command **git checkout "SHA1 hash"** switches to a specific commit (determined by SHA1 hash) and **detached HEAD because there is no branch. When HEAD is detached, then it is necessary to point pointer to a branch by running: "git rebase HEAD branch_name" OR "git checkout old_branch_name" OR "git checkout -b new_branch_name"**. 
 
 # Aliases
 
