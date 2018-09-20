@@ -44,17 +44,23 @@ git remote -v | List the URL of the remote repo
 git remote add origin "URL"  | Associate your repo with remote 
 git remote set-url origin "URL" | Update an existing remote
 git push -u origin "branch_name" | Push "branch_name" to remote
+git push --force-with-lease | Force with lease gives you the flexibility to override new commits on your remote branch, whilst protecting your old commit history
 git pull origin "branch_name" | Pull the most recent changes from that remote branch
+git fetch origin | Downloads new data from a remote repository. But it does not integrate any of this new data into your working files.
 git clone "URL" | Copy a repo from URL
 git revert HEAD | Revert the previous commit
 git submodule add URL/User_name/module_repo name_repo | Add an existing Git repo (module_repo) of a user (User_name) as a submodule of the repo that you are working on
 <br>
+
+* Note that origin should be replaced with remote address if remote was not added. 
+* Git's push --force is destructive because it unconditionally overwrites the remote repository with whatever you have locally. Instead of git push --force option, use git push --force-with-lease. See this article from [Atlassian](https://developer.atlassian.com/blog/2015/04/force-with-lease/).
 
 # Aliases
 
 Alias | Code (Should be Run in Terminal) | Description
 ------|----------------------------------|------------
 git logg | git config --global alias.logg "log --graph --decorate --oneline --abbrev-commit --all" | Display a graphic and readable log on one line using various colours
+git pushf | git config --global alias.pushf "push --force-with-lease" | Force with lease gives you the flexibility to override new commits on your remote branch
 
 # Setup a Git Credential Helper
 Rather than entering your GitHub username and password every time you push, you can setup a Git credential helper to manage this for you.
