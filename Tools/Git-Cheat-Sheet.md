@@ -14,7 +14,7 @@ git status | List all new or modified files to be committed
 git commit -m "message" | Add files from staging index to repository committed by the "message"
 git commit --amend -m "new_message" | Change the commit message by using the amend flag
 git diff | View difference between staging index and working directory
-git diff "hash values" | Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, or changes between two files on disk
+git diff "SHA1 hash" | Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, or changes between two files on disk
 git diff --staged | View difference between HEAD and staging index
 git diff HEAD | View difference between HEAD and working directory
 git diff --color--words branch1..branch2 | Show differences between branch1 and branch2 using color fonts
@@ -27,18 +27,18 @@ git checkout -b "branch_name" | Create the branch and switch to this branch
 git checkout "branch_name" | Switch to "branch_name"
 git checkout remotes/origin/"branch_name" | Switch to a remote "branch_name"
 git checkout -- "file_name" | Discrad changes in the working directory. Here -- means to stay in the same branch. This confirms that "file_name" is not a name of a branch otherwise it switchs to "branch_name"
-git checkout "hash value" | Switch to a specific commit (determined by hash value) and discrad changes in the working directory
+git checkout "SHA1 hash" | Switch to a specific commit (determined by SHA1 hash) and detached HEAD.  It i safe and won't overwrite local changes in the working directory
 git merge "branch_name" | Incorporate changes from the named commits (since the time their histories diverged from the current branch) into the current branch
 git log | Show committed files
-git log --oneline | List one commit per line and it shows the first 7 characters of the hash value and the commit message
+git log --oneline | List one commit per line and it shows the first 7 characters of the SHA1 hash and the commit message
 git log > file.txt | Save git log as file.txt
 git reflog | See what other commits your HEAD has pointed to in the past. This is useful when we lose some new commits using checkout to past commits
-git ls-tree "branch_name" | List the contents of "branch_name", like hash Value
+git ls-tree "branch_name" | List the contents of "branch_name", like SHA1 hash 
 gi rm "filename" | Remove  "filename"
 gi rm -r "foldername" | Remove  "foldername"
-git reset --soft "hash value" | Reset the place of HEAD pointer. Does not touch the index file or the working tree at all. Also, move the files (after new HEAD pointer place) from repo to staging index
-git reset --mixed "hash value" | Reset the place of HEAD pointer. Reset the index but not the working tree (i.e., the changed files are preserved but not marked for commit) and reports what has not been updated
-git reset --hard "hash value" | Make your current branch (typically master ) back to point at hash value and make the files in your working tree and staging index the same as the versions committed in the has value
+git reset --soft "SHA1 hash" | Reset the place of HEAD pointer. Does not touch the index file or the working tree at all. Also, move the files (after new HEAD pointer place) from repo to staging index
+git reset --mixed "SHA1 hash" | Reset the place of HEAD pointer. Reset the index but not the working tree (i.e., the changed files are preserved but not marked for commit) and reports what has not been updated
+git reset --hard "SHA1 hash" | Make your current branch (typically master ) back to point at SHA1 hash and make the files in your working tree and staging index the same as the versions committed in the SHA1 hash
 git reset HEAD "file_name" | Unstage "file_name"
 git reset HEAD^ | Pop your last commit out of the history
 git tag | List all tags
