@@ -13,9 +13,6 @@ git add . | Add all files from working directory to staging index
 git status | List all new or modified files to be committed
 git commit -m "message" | Add files from staging index to repository committed by the "message"
 git commit --amend -m "new_message" | Change the commit message by using the amend flag
-git log | Show committed files
-git log --oneline | List one commit per line and it shows the first 7 characters of the hash value and the commit message
-git log > file.txt | Save git log as file.txt
 git diff | View difference between staging index and working directory
 git diff "hash values" | Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, or changes between two files on disk
 git diff --staged | View difference between HEAD and staging index
@@ -32,6 +29,10 @@ git checkout remotes/origin/"branch_name" | Switch to a remote "branch_name"
 git checkout -- "file_name" | Discrad changes in the working directory. Here -- means to stay in the same branch. This confirms that "file_name" is not a name of a branch otherwise it switchs to "branch_name"
 git checkout "hash value" | Switch to a specific commit (determined by hash value) and discrad changes in the working directory
 git merge "branch_name" | Incorporate changes from the named commits (since the time their histories diverged from the current branch) into the current branch
+git log | Show committed files
+git log --oneline | List one commit per line and it shows the first 7 characters of the hash value and the commit message
+git log > file.txt | Save git log as file.txt
+git reflog | See what other commits your HEAD has pointed to in the past. This is useful when we lose some new commits using checkout to past commits
 git ls-tree "branch_name" | List the contents of "branch_name", like hash Value
 gi rm "filename" | Remove  "filename"
 gi rm -r "foldername" | Remove  "foldername"
