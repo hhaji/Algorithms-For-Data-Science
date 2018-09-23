@@ -17,7 +17,7 @@ Reading: Chapters 13, 14, 15, 16, and 17
 
 
 ## Class time, Location and Examinations:
-Saturday and Monday 08:00-09:30 AM (Fall 2018), Room 206. 
+Saturday and Monday 08:00-09:30 AM (Fall 2018), Room 208. 
 
 ### Two written exams:
 Midterm Examination: Monday 1397/09/12, 08:00-10:00 <br>
