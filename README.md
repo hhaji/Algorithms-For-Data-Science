@@ -12,7 +12,7 @@ Reading: Chapters 13, 14, 15, 16, and 17
 
 ### Extra Slides:
 * [Practical Data Science](http://www.datasciencecourse.org/lectures/)
-* [Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/) 
+* [Course: Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/) by U Kang
 
 ## Class time, Location and Examinations:
 Saturday and Monday 08:00-09:30 AM (Fall 2018), Room 208. 
