@@ -6,7 +6,12 @@ Course: Algorithms for Data Science <br>
 ## Main TextBooks & Slides:
 * [Mining of Massive Datasets](http://web.stanford.edu/class/cs246/handouts.html) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.<br>
 Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5 <br>
-Recommended Slides: [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf), [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf), [Chapter 1: Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf), [Chapter 1: Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf), Chapter 2 (Sections: [2.1, 2.2](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf), & 2.3)], and Chapter 5
+Recommended Slides: 
+1. [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf), [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf)
+2. Chapter 1: [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf), [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf)
+3. Chapter 2: (Sections: [2.1, 2.2](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf), & 2.3)], also 
+I recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski
+4. Chapter 5: 
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
 Reading: Chapters 13, 14, 15, 16, and 17
 
