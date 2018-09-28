@@ -11,7 +11,8 @@ Recommended Slides:
 1. [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf), [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf)
 2. Chapter 1: [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf), [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf)
 3. Chapter 2: (Sections: [2.1, 2.2](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf), & [2.3](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid188771.pdf))], also 
-I recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski
+I recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski and 
+[Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt
 4. Chapter 5: 
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
 Reading: Chapters 13, 14, 15, 16, and 17
