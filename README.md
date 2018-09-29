@@ -8,9 +8,9 @@ Course: Algorithms for Data Science <br>
 Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5 <br>
 
 Recommended Slides: 
-1. [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf), [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf)
-2. Chapter 1: [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf), [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf)
-3. Chapter 2: (Sections: [2.1, 2.2](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf), & [2.3](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid188771.pdf))], also 
+1. [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) and [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter
+2. Chapter 1: [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf)by U Kang, [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by Irene Finocchi
+3. Chapter 2: (Sections: [2.1, 2.2](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf), & [2.3](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid188771.pdf))] by Damiano Carra, also 
 I recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski and 
 [Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt
 4. Chapter 5: 
@@ -18,7 +18,7 @@ I recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-map
 Reading: Chapters 13, 14, 15, 16, and 17
 
 ### Extra Slides:
-* [Practical Data Science](http://www.datasciencecourse.org/lectures/)
+* [Practical Data Science](http://www.datasciencecourse.org/lectures/) by Zico Kolter
 * [Course: Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/) by U Kang
 
 ## Class time, Location and Examinations:
