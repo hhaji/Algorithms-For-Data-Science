@@ -23,7 +23,7 @@ Section 2.3 (Algorithms Using MapReduc): [Relational Algebra with MapReduce](htt
 also, we recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski and [Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt
 5. **Chapter 5 of [Mining of Massive Datasets](http://www.mmds.org): Link Analysis** <br>
 Sections 5.1, 5.2 (PageRank, Efficient Computation of PageRank): [Analysis of Large Graphs 1](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
-Sections 5.3, 5.4 (Topic-Sensitive PageRank, Link Spam): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
+Sections 5.3, 5.4, 5.5 (Topic-Sensitive PageRank, Link Spam, Hubs and Authorities): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
 also, we recommend [The Linear Algebra Aspects of PageRank](http://www4.ncsu.edu/~ipsen/ps/slides_dagstuhl07071.pdf) by Ilse Ipsen
 
 ### Extra Slides:
