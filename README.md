@@ -4,7 +4,7 @@ Course: Algorithms for Data Science <br>
 [Shahid Beheshti University](http://www.sbu.ac.ir/)
 
 ## Main TextBooks & Slides:
-* [Mining of Massive Datasets](http://web.stanford.edu/class/cs246/handouts.html) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.<br>
+* [Mining of Massive Datasets](http://www.mmds.org) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.<br>
 Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5 <br>
 
 Recommended Slides: 
@@ -14,6 +14,9 @@ Recommended Slides:
 I recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski and 
 [Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt
 4. Chapter 5: 
+[Section 5.1: PageRank (Analysis of Large Graphs)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)
+[Section 5.2, 5.3, 5.4: Efficient Computation of Page Rank, TrustRank, and webSpam)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)
+
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
 Reading: Chapters 13, 14, 15, 16, and 17
 
