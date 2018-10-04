@@ -14,7 +14,7 @@ Recommended Slides:
 1. Introduction to Data Science <br>
 [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) and [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter
 2. Git & GitHub Lab <br>
-[An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf), [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire, and [A Quick Guide to Git and Version Control](http://sites.utexas.edu/asa-student-chapter/files/2016/04/Grad_Skills_Seminar_11-17-17_Git_and_Version_Control.pdf) by Jay Johnson
+[An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) and [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire
 3. Chapter 1 of [Mining of Massive Datasets](http://www.mmds.org): Data Mining<br>
 [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf) by U Kang and  [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by Irene Finocchi
 4. Chapter 2 of [Mining of Massive Datasets](http://www.mmds.org): MapReduce and the New Software Stack<br>
