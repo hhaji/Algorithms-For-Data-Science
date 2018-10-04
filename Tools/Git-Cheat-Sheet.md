@@ -32,10 +32,18 @@ git merge "branch_name" | Incorporate changes from the named commits (since the 
 git log | Show committed files
 git log --oneline | List one commit per line and it shows the first 7 characters of the SHA1 hash and the commit message
 git log > file.txt | Save git log as file.txt
+git log --since=2017-09-08 | show all commit since date 
+git log --untile=2018-05-10 | show all commit untile date
+git log --author=DaryaHash | show all commit DaryaHash
+git log -n1 | show just last commit
+git log -n2 | show the last two commits
+git log --grep="filename or partly name " | show just commit about filename or partly name
 git reflog | See what other commits your HEAD has pointed to in the past. This is useful when we lose some new commits using checkout to past commits
 git ls-tree "branch_name" | List the contents of "branch_name", like SHA1 hash 
-gi rm "filename" | Remove  "filename"
-gi rm -r "foldername" | Remove  "foldername"
+git rm "filename" | Remove  "filename"
+git rm -r "foldername" | Remove  "foldername"
+git mv "old filename" "new filename" | change name file
+git mv "old filename" "name directory"/"new filename" | change directory and change name file
 git reset --soft "SHA1 hash" | Reset the place of HEAD pointer and does not touch the index file or the working tree at all. Also, move the files (after new HEAD pointer place) from repo to staging index
 git reset --mixed "SHA1 hash" | Reset the place of HEAD pointer. Reset the index but not the working tree (i.e., the changed files are preserved but not marked for commit) and reports what has not been updated
 git reset --hard "SHA1 hash" | Make your current branch (typically master ) back to point at SHA1 hash and make the files in your working tree and staging index the same as the versions committed in the SHA1 hash
