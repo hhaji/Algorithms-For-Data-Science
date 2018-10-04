@@ -22,8 +22,9 @@ Sections 2.1 & 2.2 (Distributed File Systems & MapReduce): [Introduction & Mapre
 Section 2.3 (Algorithms Using MapReduc): [Relational Algebra with MapReduce](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid188771.pdf) by Damiano Carra <br>
 also, we recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski and [Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt
 5. **Chapter 5 of [Mining of Massive Datasets](http://www.mmds.org): Link Analysis** <br>
-Section 5.1: [PageRank (Analysis of Large Graphs)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
-Sections 5.2, 5.3, 5.4: [Efficient Computation of Page Rank, TrustRank, and webSpam)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
+Section 5.1 (PageRank): [Analysis of Large Graphs 1](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
+Sections 5.2, 5.3 (Efficient Computation of PageRank, Topic-Sensitive PageRank): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
+Section 5.4 (Link Spam): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
 
 ### Extra Slides:
 * [Practical Data Science](http://www.datasciencecourse.org/lectures/) by Zico Kolter
