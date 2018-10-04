@@ -21,8 +21,8 @@ Section: [2.3](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid18877
 also, I recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski and 
 [Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt
 4. Chapter 5: Link Analysis <br>
-[Section 5.1: PageRank (Analysis of Large Graphs)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
-[Section 5.2, 5.3, 5.4: Efficient Computation of Page Rank, TrustRank, and webSpam)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
+Section 5.1: [PageRank (Analysis of Large Graphs)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
+Sections 5.2, 5.3, 5.4: [Efficient Computation of Page Rank, TrustRank, and webSpam)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
 
 ### Extra Slides:
 * [Practical Data Science](http://www.datasciencecourse.org/lectures/) by Zico Kolter
