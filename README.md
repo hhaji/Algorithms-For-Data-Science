@@ -25,6 +25,7 @@ also, we recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content
 Section 5.1 (PageRank): [Analysis of Large Graphs 1](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
 Sections 5.2, 5.3 (Efficient Computation of PageRank, Topic-Sensitive PageRank): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
 Section 5.4 (Link Spam): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
+also, we recommend [The Linear Algebra Aspects of PageRank](http://www4.ncsu.edu/~ipsen/ps/slides_dagstuhl07071.pdf) by Ilse Ipsen
 
 ### Extra Slides:
 * [Practical Data Science](http://www.datasciencecourse.org/lectures/) by Zico Kolter
