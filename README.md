@@ -7,18 +7,22 @@ Course: Algorithms for Data Science <br>
 * [Mining of Massive Datasets](http://www.mmds.org) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.<br>
 Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5 <br>
 
-Recommended Slides: 
-1. [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) and [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter
-2. Chapter 1: [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf) by U Kang and  [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by Irene Finocchi
-3. Chapter 2: (Sections: [2.1, 2.2](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf), & [2.3](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid188771.pdf) by Damiano Carra), also 
-I recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski and 
-[Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt
-4. Chapter 5: 
-[Section 5.1: PageRank (Analysis of Large Graphs)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
-[Section 5.2, 5.3, 5.4: Efficient Computation of Page Rank, TrustRank, and webSpam)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
-
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
 Reading: Chapters 13, 14, 15, 16, and 17
+
+Recommended Slides: 
+1. Introduction to Data Science <br>
+[Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) and [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter
+2. Chapter 1: Data Mining<br>
+[Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf) by U Kang and  [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by Irene Finocchi
+3. Chapter 2: MapReduce and the New Software Stack<br>
+Sections: [2.1, 2.2](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf) <br>
+Section: [2.3](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid188771.pdf) by Damiano Carra <br>
+also, I recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski and 
+[Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt
+4. Chapter 5: Link Analysis <br>
+[Section 5.1: PageRank (Analysis of Large Graphs)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
+[Section 5.2, 5.3, 5.4: Efficient Computation of Page Rank, TrustRank, and webSpam)](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
 
 ### Extra Slides:
 * [Practical Data Science](http://www.datasciencecourse.org/lectures/) by Zico Kolter
