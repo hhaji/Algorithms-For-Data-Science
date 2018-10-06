@@ -32,6 +32,8 @@ git merge "branch_name" | Incorporate changes from the named commits (since the 
 git log | Show committed files
 git log --oneline | List one commit per line and it shows the first 7 characters of the SHA1 hash and the commit message
 git log > file.txt | Save git log as file.txt
+git log --follow [file] | show history file and show all of the change name file
+git diff [first-branch]...[second-branch] | show diffrence between 2 branch
 git reflog | See what other commits your HEAD has pointed to in the past. This is useful when we lose some new commits using checkout to past commits
 git ls-tree "branch_name" | List the contents of "branch_name", like SHA1 hash 
 gi rm "filename" | Remove  "filename"
