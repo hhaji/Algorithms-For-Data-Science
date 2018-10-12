@@ -13,7 +13,7 @@ Reading: Chapters 13, 14, 15, 16, and 17
 Recommended Slides: 
 1. **Introduction to Data Science** <br>
 [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) and [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter
-2. **Git & GitHub Lab** <br>
+2. **Toolkits Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)** <br>
 [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino and [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire
 3. **Chapter 1 of [Mining of Massive Datasets](http://www.mmds.org): Data Mining** <br>
 [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf) by U Kang and  [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by Irene Finocchi
@@ -27,7 +27,7 @@ Sections 5.3, 5.4, 5.5 (Topic-Sensitive PageRank, Link Spam, Hubs and Authoritie
 Also, we recommend [The Linear Algebra Aspects of PageRank](http://www4.ncsu.edu/~ipsen/ps/slides_dagstuhl07071.pdf) by Ilse Ipsen <br>
 Some applications of PageRank:<br>
 [A Survey on Proximity Measures for Social Networks](https://link.springer.com/chapter/10.1007/978-3-642-34213-4_13) by Sara Cohen, Benny Kimelfeld, Georgia Koutrika
-6. **Toolkit Lab: [Orange](https://orange.biolab.si) & [Weka](https://www.cs.waikato.ac.nz/ml/weka/)** <br>
+6. **Toolkits Lab: [Orange](https://orange.biolab.si) & [Weka](https://www.cs.waikato.ac.nz/ml/weka/)** <br>
 [Youtube Tutorial of Orange](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g) <br>
 [Widget Catalog of Orange](https://orange.biolab.si/toolbox/) <br>
 [Data Mining with Weka](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) <br>
