@@ -10,7 +10,7 @@ Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5 <br>
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
 Reading: Chapters 13, 14, 15, 16, and 17
 
-Recommended Slides: 
+Recommended Slides & Papers: 
 1. **Introduction to Data Science** <br>
 [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) and [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter
 2. **Toolkits Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)** <br>
@@ -26,14 +26,15 @@ Sections 5.1, 5.2 (PageRank, Efficient Computation of PageRank): [Analysis of La
 Sections 5.3, 5.4, 5.5 (Topic-Sensitive PageRank, Link Spam, Hubs and Authorities): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
 Also, we recommend [The Linear Algebra Aspects of PageRank](http://www4.ncsu.edu/~ipsen/ps/slides_dagstuhl07071.pdf) by Ilse Ipsen <br>
 Some applications of PageRank:<br>
-[A Survey on Proximity Measures for Social Networks](https://link.springer.com/chapter/10.1007/978-3-642-34213-4_13) by Sara Cohen, Benny Kimelfeld, Georgia Koutrika
+Paper: [A Survey on Proximity Measures for Social Networks](https://link.springer.com/chapter/10.1007/978-3-642-34213-4_13) by Sara Cohen, Benny Kimelfeld, Georgia Koutrika
 6. **Toolkits Lab: [Orange](https://orange.biolab.si) & [Weka](https://www.cs.waikato.ac.nz/ml/weka/)** <br>
 Orange: [Youtube Tutorial of Orange](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g) & [Widget Catalog of Orange](https://orange.biolab.si/toolbox/) <br>
 Weka: [Data Mining with Weka](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) <br>
 [Free online courses](https://www.cs.waikato.ac.nz/ml/weka/courses.html) on data mining with machine learning techniques in Weka. Also, you can register the course via [FutureLearn Education Platform](https://www.futurelearn.com/courses/data-mining-with-weka). 
 7. **Chapter 13 of [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
 Representative-based Clustering: [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap13.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap13.pptx) <br>
-[The Expectation Maximization Algorithm (A Short Tutorial)](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) by 
+[Introduction to Machine Learning (Clustering and EM)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/EM.pdf)<br>
+A Short Tutorial: [The Expectation Maximization Algorithm](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) by 
 Sean Borman 
 8. **Chapter 14 of [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
  Hierarchical Clustering: [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap14.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap14.pptx)
