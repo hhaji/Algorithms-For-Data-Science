@@ -36,7 +36,8 @@ Representative-based Clustering: [PDF](http://www.dataminingbook.info/pmwiki.php
 [Introduction to Machine Learning (Clustering and EM)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/EM.pdf)<br>
 A Short Tutorial: [The Expectation Maximization Algorithm](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) by 
 Sean Borman <br>
-Paper: [Fast Exact k-Means, k-Medians and Bregman Divergence Clustering in 1D](https://cs.au.dk/~larsen/papers/1dkmeans.pdf)
+Paper: [Fast Exact k-Means, k-Medians and Bregman Divergence Clustering in 1D](https://cs.au.dk/~larsen/papers/1dkmeans.pdf) <br>
+Book: Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David
 8. **Chapter 14 of [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
  Hierarchical Clustering: [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap14.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap14.pptx)
 9. **Chapter 15 of [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
