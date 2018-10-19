@@ -33,6 +33,7 @@ Weka: [Data Mining with Weka](https://www.cs.waikato.ac.nz/ml/weka/mooc/datamini
 [Free online courses](https://www.cs.waikato.ac.nz/ml/weka/courses.html) on data mining with machine learning techniques in Weka. Also, you can register the course via [FutureLearn Education Platform](https://www.futurelearn.com/courses/data-mining-with-weka). 
 7. **Chapter 13 of [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
 Representative-based Clustering: [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap13.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap13.pptx) <br>
+[Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson <br>
 [Introduction to Machine Learning (Clustering and EM)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/EM.pdf)<br>
 A Short Tutorial: [The Expectation Maximization Algorithm](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) by 
 Sean Borman <br>
