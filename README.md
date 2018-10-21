@@ -23,7 +23,7 @@ Slide of Section 2.3 (Algorithms Using MapReduc): [Relational Algebra with MapRe
 Slides: Also, we recommend [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski, [MapReduce in Spark II](http://www.cs.put.poznan.pl/kdembczynski/lectures/pmds/lectures/mapreduce-II.pdf) by Krzysztof Dembczynski, and [Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt
 5. **Chapter 5 of [Mining of Massive Datasets](http://www.mmds.org): Link Analysis** <br>
 Slide of Sections 5.1, 5.2 (PageRank, Efficient Computation of PageRank): [Analysis of Large Graphs 1](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
-Slide of Sections 5.3, 5.4, 5.5 (Topic-Sensitive PageRank, Link Spam, Hubs and Authorities): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
+Slide of Sections 5.3-5.5 (Topic-Sensitive PageRank, Link Spam, Hubs and Authorities): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
 Slide: Also, we recommend [The Linear Algebra Aspects of PageRank](http://www4.ncsu.edu/~ipsen/ps/slides_dagstuhl07071.pdf) by Ilse Ipsen <br>
 Some applications of PageRank:<br>
 Paper: [A Survey on Proximity Measures for Social Networks](https://link.springer.com/chapter/10.1007/978-3-642-34213-4_13) by Sara Cohen, Benny Kimelfeld, Georgia Koutrika
@@ -35,7 +35,7 @@ Weka: [Data Mining with Weka](https://www.cs.waikato.ac.nz/ml/weka/mooc/datamini
 **Exercises** 13.5: Q2, Q4, Q6, Q7 <br>
 Slide: Representative-based Clustering: [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap13.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap13.pptx) <br>
 Slide: [Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson <br>
-Slide: [Tutorial on Estimation and Multivariate Gaussians](http://ttic.uchicago.edu/~shubhendu/Slides/Estimation.pdf) by Shubhendu Trivedi
+Slide: [Tutorial on Estimation and Multivariate Gaussians](http://ttic.uchicago.edu/~shubhendu/Slides/Estimation.pdf) by Shubhendu Trivedi <br>
 Slide: [Introduction to Machine Learning (Clustering and EM)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/EM.pdf)<br>
 A Short Tutorial: [The Expectation Maximization Algorithm](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) by 
 Sean Borman <br>
