@@ -34,7 +34,7 @@ git log --oneline | List one commit per line and it shows the first 7 characters
 git log > file.txt | Save git log as file.txt
 git log --since=2017-09-08 | show all commit since date 
 git log --untile=2018-05-10 | show all commit untile date
-git log --author=DaryaHash | show all commit DaryaHash
+git log --author="Author's Name" | show all commit "Author's Name"
 git log -n1 | show just last commit
 git log -n2 | show the last two commits
 git log --grep="filename or partly name " | show just commit about filename or partly name
