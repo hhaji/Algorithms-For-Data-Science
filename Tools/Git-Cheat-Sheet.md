@@ -18,6 +18,7 @@ git diff "SHA1 hash" | Show changes between the working tree and the index or a 
 git diff --staged | View difference between HEAD and staging index
 git diff HEAD | View difference between HEAD and working directory
 git diff --color--words branch1..branch2 | Show differences between branch1 and branch2 using color fonts
+git diff [first-branch]...[second-branch] | show diffrence between 2 branches
 git branch "branch_name" | Create a branch whose name is "branch_name"
 git branch --m "old_name" "new_name" | Change the old name of the branch to new one 
 git branch --d "branch_name" | Delete the branch
@@ -32,12 +33,13 @@ git merge "branch_name" | Incorporate changes from the named commits (since the 
 git log | Show committed files
 git log --oneline | List one commit per line and it shows the first 7 characters of the SHA1 hash and the commit message
 git log > file.txt | Save git log as file.txt
-git log --since=2017-09-08 | show all commit since date 
-git log --untile=2018-05-10 | show all commit untile date
-git log --author="Author's Name" | show all commit "Author's Name"
-git log -n1 | show just last commit
+git log --follow "filename" | show the history of "filename" 
+git log --since=2017-09-08 | show all commits since date 
+git log --untile=2018-05-10 | show all commits untile date
+git log --author="Author's Name" | show all commits of "Author's Name"
+git log -n1 | show just the last commit
 git log -n2 | show the last two commits
-git log --grep="filename or partly name " | show just commit about filename or partly name
+git log --grep="filename or partly name " | show just the commit about filename or partly name
 git reflog | See what other commits your HEAD has pointed to in the past. This is useful when we lose some new commits using checkout to past commits
 git ls-tree "branch_name" | List the contents of "branch_name", like SHA1 hash 
 git rm "filename" | Remove  "filename"
