@@ -18,6 +18,7 @@ git diff "SHA1 hash" | Show changes between the working tree and the index or a 
 git diff --staged | View difference between HEAD and staging index
 git diff HEAD | View difference between HEAD and working directory
 git diff --color--words branch1..branch2 | Show differences between branch1 and branch2 using color fonts
+git diff [first-branch]...[second-branch] | show diffrence between 2 branches
 git branch "branch_name" | Create a branch whose name is "branch_name"
 git branch --m "old_name" "new_name" | Change the old name of the branch to new one 
 git branch --d "branch_name" | Delete the branch
@@ -32,12 +33,19 @@ git merge "branch_name" | Incorporate changes from the named commits (since the 
 git log | Show committed files
 git log --oneline | List one commit per line and it shows the first 7 characters of the SHA1 hash and the commit message
 git log > file.txt | Save git log as file.txt
-git log --follow [file] | show history file and show all of the change name file
-git diff [first-branch]...[second-branch] | show diffrence between 2 branch
+git log --follow "filename" | show the history of "filename" 
+git log --since=2017-09-08 | show all commits since date 
+git log --untile=2018-05-10 | show all commits untile date
+git log --author="Author's Name" | show all commits of "Author's Name"
+git log -n1 | show just the last commit
+git log -n2 | show the last two commits
+git log --grep="filename or partly name " | show just the commit about filename or partly name
 git reflog | See what other commits your HEAD has pointed to in the past. This is useful when we lose some new commits using checkout to past commits
 git ls-tree "branch_name" | List the contents of "branch_name", like SHA1 hash 
-gi rm "filename" | Remove  "filename"
-gi rm -r "foldername" | Remove  "foldername"
+git rm "filename" | Remove  "filename"
+git rm -r "foldername" | Remove  "foldername"
+git mv "old filename" "new filename" | change name file
+git mv "old filename" "name directory"/"new filename" | change directory and change name file
 git reset --soft "SHA1 hash" | Reset the place of HEAD pointer and does not touch the index file or the working tree at all. Also, move the files (after new HEAD pointer place) from repo to staging index
 git reset --mixed "SHA1 hash" | Reset the place of HEAD pointer. Reset the index but not the working tree (i.e., the changed files are preserved but not marked for commit) and reports what has not been updated
 git reset --hard "SHA1 hash" | Make your current branch (typically master ) back to point at SHA1 hash and make the files in your working tree and staging index the same as the versions committed in the SHA1 hash
