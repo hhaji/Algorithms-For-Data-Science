@@ -1,5 +1,8 @@
 # Course Project Resources:
-Several programming assignments that cover the topic of the course. Students individually implement given assignments in recommended language or tool, and periodically demonstrate the progress to teaching assistants. The following resources may be helpful for those still undecided about their course project.
+Several programming assignments that cover the topic of the course. Students individually implement given assignments in recommended language or tool, and periodically demonstrate the progress to teaching assistants. 
+Students should create a folder inside of this folder (using pull request) containing their projects. The name of each folder starts with the name of data set and it ends with the name of algorithms used to analysis the data.
+
+The following resources may be helpful for those still undecided about their course project. 
 
 ## Datasets:
 * [DataHub](https://datahub.io/) has a lot of structured data in formats such as RDF and CSV. 
@@ -21,3 +24,6 @@ To know more softwares, refer to the following webpage of [KDnuggets](https://ww
 
 * [Software Suites/Platforms for Analytics, Data Mining, Data Science, and Machine Learning
 Python](https://www.kdnuggets.com/software/suites.html)
+
+## Dealing with Data
+* [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
