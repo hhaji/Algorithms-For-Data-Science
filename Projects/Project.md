@@ -27,3 +27,4 @@ Python](https://www.kdnuggets.com/software/suites.html)
 
 ## Dealing with Data
 * [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
+* [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
