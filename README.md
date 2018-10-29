@@ -37,6 +37,7 @@ Slides (Representative-based Clustering): [PDF](http://www.dataminingbook.info/p
 Slide: [Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson <br>
 Slide: [Tutorial on Estimation and Multivariate Gaussians](http://ttic.uchicago.edu/~shubhendu/Slides/Estimation.pdf) by Shubhendu Trivedi <br>
 Slide: [Introduction to Machine Learning (Clustering and EM)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/EM.pdf) by Barnabás Póczos & Aarti Singh <br>
+Slide: [Mixture Model](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_mixture.pdf) by Jing Gao <br>
 A Short Tutorial: [The Expectation Maximization Algorithm](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) by 
 Sean Borman <br>
 A Short Tutorial: [What is Bayesian Statistics?](http://www.bandolier.org.uk/painres/download/whatis/What_is_Bay_stats.pdf) by John W Stevens<br>
