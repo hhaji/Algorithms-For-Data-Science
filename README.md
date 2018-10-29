@@ -31,7 +31,7 @@ Paper: [A Survey on Proximity Measures for Social Networks](https://link.springe
 Orange: [Youtube Tutorial of Orange](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g) & [Widget Catalog of Orange](https://orange.biolab.si/toolbox/) <br>
 Weka: [Data Mining with Weka](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) <br>
 [Free online courses](https://www.cs.waikato.ac.nz/ml/weka/courses.html) on data mining with machine learning techniques in Weka. Also, you can register the course via [FutureLearn Education Platform](https://www.futurelearn.com/courses/data-mining-with-weka). <br>
-7. **Chapter 13 (Representative-Based Clustering) of [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
+7. **Chapter 13 (Representative-Based Clustering) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
 **Exercises** 13.5: Q2, Q4, Q6, Q7 <br>
 Slides (Representative-based Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap13.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap13.pptx) <br>
 Slide: [Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson <br>
