@@ -14,9 +14,11 @@ Recommended Slides & Papers:
 1. **Introduction to Data Science** <br>
 Slide: [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) and [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter <br>
 2. **Toolkits Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)** <br>
-Slides: [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino and [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire <br>
+Slides: [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino <br>
+Slide: [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire <br>
 3. **Chapter 1 ( Data Mining) of [Mining of Massive Datasets](http://www.mmds.org)** <br>
-Slides: [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf) by U Kang and  [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by Irene Finocchi <br>
+Slide: [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf) by U Kang <br>   
+Slide: [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by Irene Finocchi <br>
 4. **Chapter 2 (MapReduce and the New Software Stack) of [Mining of Massive Datasets](http://www.mmds.org)** <br>
 Slide of Sections 2.1 & 2.2 (Distributed File Systems & MapReduce): [Introduction & Mapreduce](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf) by Jure Leskovec <br>
 Slide of Section 2.3 (Algorithms Using MapReduc): [Relational Algebra with MapReduce](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid188771.pdf) by Damiano Carra <br>
