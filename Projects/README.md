@@ -26,5 +26,6 @@ To know more softwares, refer to the following webpage of [KDnuggets](https://ww
 Python](https://www.kdnuggets.com/software/suites.html)
 
 ## Dealing with Data
+* [Data preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
 * [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
 * [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
