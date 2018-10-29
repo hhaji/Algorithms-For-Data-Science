@@ -45,8 +45,8 @@ A Short Tutorial: [What is Bayesian Statistics?](http://www.bandolier.org.uk/pai
 Book: [Understanding Machine Learning: From Theory to Algorithms](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132) by Shai Shalev-Shwartz and Shai Ben-David <br>
 8. **Chapter 14 (Hierarchical Clustering) of [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
  Slides (Hierarchical Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap14.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap14.pptx) <br>
-* [Hierarchical Clustering](http://statweb.stanford.edu/~jtaylo/courses/stats202/restricted/notes/hierarchical.pdf) by Jonathan Taylor <br>
-* [Hierarchical clustering for gene expression data analysis](http://homes.di.unimi.it/valenti/SlideCorsi/MB0910/HierarchicalClustering.pdf) by Giorgio Valentini <br>
+[Hierarchical Clustering](http://statweb.stanford.edu/~jtaylo/courses/stats202/restricted/notes/hierarchical.pdf) by Jonathan Taylor <br>
+[Hierarchical clustering for gene expression data analysis](http://homes.di.unimi.it/valenti/SlideCorsi/MB0910/HierarchicalClustering.pdf) by Giorgio Valentini <br>
 9. **Chapter 15 (Density-Based Clustering) of [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
  Slides of Section 15.1 (Density-based Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap15.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap15.pptx) <br>
 10. **Chapter 16 (Spectral and Graph Clustering) of [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
