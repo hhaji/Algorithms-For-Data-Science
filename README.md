@@ -20,7 +20,8 @@ Slides: [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/1
 4. **Chapter 2 (MapReduce and the New Software Stack) of [Mining of Massive Datasets](http://www.mmds.org)** <br>
 Slide of Sections 2.1 & 2.2 (Distributed File Systems & MapReduce): [Introduction & Mapreduce](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf) by Jure Leskovec <br>
 Slide of Section 2.3 (Algorithms Using MapReduc): [Relational Algebra with MapReduce](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid188771.pdf) by Damiano Carra <br>
-Slide: [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski <br>Slide: Slide: [MapReduce in Spark II](http://www.cs.put.poznan.pl/kdembczynski/lectures/pmds/lectures/mapreduce-II.pdf) by Krzysztof Dembczynski <br>
+Slide: [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski <br> 
+Slide: [MapReduce in Spark II](http://www.cs.put.poznan.pl/kdembczynski/lectures/pmds/lectures/mapreduce-II.pdf) by Krzysztof Dembczynski <br>
 Slide: [Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt <br>
 5. **Chapter 5 (Link Analysis) of [Mining of Massive Datasets](http://www.mmds.org)** <br>
 Slide of Sections 5.1, 5.2 (PageRank, Efficient Computation of PageRank): [Analysis of Large Graphs 1](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
