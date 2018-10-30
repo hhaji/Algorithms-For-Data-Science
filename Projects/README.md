@@ -30,3 +30,4 @@ Python](https://www.kdnuggets.com/software/suites.html)
 * [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
 * [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
 * Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
+* Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang
