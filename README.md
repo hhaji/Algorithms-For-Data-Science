@@ -53,6 +53,8 @@ Book: [Understanding Machine Learning: From Theory to Algorithms](https://www.am
 Slide: [Hierarchical Clustering](http://statweb.stanford.edu/~jtaylo/courses/stats202/restricted/notes/hierarchical.pdf) by Jonathan Taylor <br>
 Slide: [Hierarchical clustering for gene expression data analysis](http://homes.di.unimi.it/valenti/SlideCorsi/MB0910/HierarchicalClustering.pdf) by Giorgio Valentini <br>
 Slide: [Hierarchical Clustering](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_hierarchical.pdf) by Jing Gao <br>
+Slide: [Data Structures: Heap](http://www.cs.nthu.edu.tw/~wkhon/ds/ds11/lecture/lecture4.pdf) by Wing-Kai Hon <br>
+Slide: [Binary Heaps](https://courses.cs.washington.edu/courses/cse373/06sp/handouts/lecture10.pdf) <br>
 9. **Chapter 15 (Density-Based Clustering) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
  Slides of Section 15.1 (Density-based Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap15.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap15.pptx) <br>
 Slide: [Density-based Methods](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_density.pdf) by Jing Gao <br>
