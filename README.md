@@ -59,7 +59,8 @@ A Short Note: [Proof for the Complexity of Building a Heap](http://www.cse.msu.e
 9. **Chapter 15 (Density-Based Clustering) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
  Slides of Section 15.1 (Density-based Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap15.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap15.pptx) <br>
 Slide: [Density-based Methods](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_density.pdf) by Jing Gao <br>
-Slide: [Spatial Database Systems](http://dna.fernuni-hagen.de/Tutorial-neu.pdf) <br>
+Slide: [Spatial Database Systems](http://dna.fernuni-hagen.de/Tutorial-neu.pdf) by 
+Ralf Hartmut Güting <br>
 10. **Chapter 16 (Spectral and Graph Clustering) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
 Slides (Spectral and Graph Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap16.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap16.pptx) <br>
 Slide: [Spectral Methods](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_spectral.pdf) by Jing Gao <br>
