@@ -36,7 +36,7 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * The Python Tutorial ([available from the Python website](https://docs.python.org/3.6/tutorial/))
 
 ### Project Euler
-If you want practice Python more, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)!
+If you want to solve interesting problems with Python, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)!
 
 ### Anaconda
 [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
