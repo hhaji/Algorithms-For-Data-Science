@@ -57,6 +57,7 @@ Slide: [Hierarchical Clustering](https://cse.buffalo.edu/~jing/cse601/fa12/mater
 Slide: [Data Structures (Heap)](http://www.cs.nthu.edu.tw/~wkhon/ds/ds11/lecture/lecture4.pdf) by Wing-Kai Hon <br>
 Slide: [Binary Heaps](https://courses.cs.washington.edu/courses/cse373/06sp/handouts/lecture10.pdf) <br>
 A Short Note: [Proof for the Complexity of Building a Heap](http://www.cse.msu.edu/~huding/331material/timecomplexity_for_heap.pdf) by Hu Ding <br>
+Lecture: [Finding Meaningful Clusters in Data](https://cseweb.ucsd.edu/~dasgupta/291-unsup/lec5.pdf) by Sanjoy Dasgupta <br>
 9. **Chapter 15 (Density-Based Clustering) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
  Slides of Section 15.1 (Density-based Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap15.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap15.pptx) <br>
 Slide: [Spatial Database Systems](http://dna.fernuni-hagen.de/Tutorial-neu.pdf) by 
@@ -66,7 +67,6 @@ Slides (Spectral and Graph Clustering): [PDF](http://www.dataminingbook.info/pmw
 Slide: [Spectral Methods](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_spectral.pdf) by Jing Gao <br>
 Slide: [Introduction to Spectral Clustering](http://www.cvl.isy.liu.se:82/education/graduate/spectral-clustering/SC_course_part1.pdf) by Vasileios Zografos and Klas Nordberg <br>
 A Short Tutorial: [A Tutorial on Spectral Clustering](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/Luxburg07_tutorial_4488%5b0%5d.pdf) by Ulrike von Luxburg <br>
-Lecture: [Finding Meaningful Clusters in Data](https://cseweb.ucsd.edu/~dasgupta/291-unsup/lec5.pdf) by Sanjoy Dasgupta <br>
 Lecture: [Spectral Methods](https://cseweb.ucsd.edu/~dasgupta/291-unsup/lec7.pdf) by Sanjoy Dasgupta <br>
 11. **Chapter 17 (Clustering Validation) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
 Slides (Clustering Validation): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap17.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap17.pptx) <br>
