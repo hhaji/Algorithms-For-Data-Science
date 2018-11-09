@@ -71,7 +71,7 @@ A Short Tutorial: [A Tutorial on Spectral Clustering](http://www.kyb.mpg.de/file
 Lecture: [Spectral Methods](https://cseweb.ucsd.edu/~dasgupta/291-unsup/lec7.pdf) by Sanjoy Dasgupta <br>
 11. **Chapter 17 (Clustering Validation) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
 Slides (Clustering Validation): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap17.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap17.pptx) <br>
-
+Paper: [A Tutorial on Spectral Clustering](https://arxiv.org/pdf/0711.0189.pdf) by Ulrike von Luxburg<br>
 ### Extra Slides:
 * [Practical Data Science](http://www.datasciencecourse.org/lectures/) by Zico Kolter
 * [Course: Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/) by U Kang
