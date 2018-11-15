@@ -13,9 +13,9 @@ Reading: Chapters 13, 14, 15 (Section 15.1), 16, and 17
 Recommended Slides & Papers: 
 1. **Introduction to Data Science** <br>
 Slide: [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) by Zico Kolter <br> 
-2. **Jupyter NoteBook Lab** <br>
+2. **Toolkit Lab: Jupyter NoteBook** <br>
 Slide: [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter <br>
-3. **Toolkits Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)** <br>
+3. **Toolkit Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)** <br>
 Slide: [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino <br>
 Slide: [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire <br>
 4. **Chapter 1 ( Data Mining) of [Mining of Massive Datasets](http://www.mmds.org)** <br>
@@ -33,7 +33,7 @@ Slide of Sections 5.3-5.5 (Topic-Sensitive PageRank, Link Spam, Hubs and Authori
 Slide: [The Linear Algebra Aspects of PageRank](http://www4.ncsu.edu/~ipsen/ps/slides_dagstuhl07071.pdf) by Ilse Ipsen <br>
 Some applications of PageRank:<br>
 Paper: [A Survey on Proximity Measures for Social Networks](https://link.springer.com/chapter/10.1007/978-3-642-34213-4_13) by Sara Cohen, Benny Kimelfeld, Georgia Koutrika <br>
-7. **Toolkits Lab: [Orange](https://orange.biolab.si) & [Weka](https://www.cs.waikato.ac.nz/ml/weka/)** <br>
+7. **Toolkit Lab: [Orange](https://orange.biolab.si) & [Weka](https://www.cs.waikato.ac.nz/ml/weka/)** <br>
 Orange: [Youtube Tutorial of Orange](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g) & [Widget Catalog of Orange](https://orange.biolab.si/toolbox/) <br>
 Weka: [Data Mining with Weka](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) <br>
 [Free online courses](https://www.cs.waikato.ac.nz/ml/weka/courses.html) on data mining with machine learning techniques in Weka. Also, you can register the course via [FutureLearn Education Platform](https://www.futurelearn.com/courses/data-mining-with-weka). <br>
