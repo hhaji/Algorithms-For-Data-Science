@@ -75,7 +75,7 @@ Tutorial: [Matrix Differentiation](https://atmos.washington.edu/~dennis/MatrixCa
 Randal J. Barnes<br>
 Lecture: [Spectral Methods](https://cseweb.ucsd.edu/~dasgupta/291-unsup/lec7.pdf) by Sanjoy Dasgupta <br>
 12. **Chapter 17 (Clustering Validation) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
-Slides of Sectione 17.1 (Clustering Validation): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap17.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap17.pptx)  by Mohammed J. Zaki and Wagner Meira Jr. <br>
+Slides of Section 17.1 (Clustering Validation): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap17.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap17.pptx)  by Mohammed J. Zaki and Wagner Meira Jr. <br>
 Slide: [Evaluation (I)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture22.pdf) by Andrew Rosenberg <br>
 Slide: [Clustering Evaluation (II)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture23.pdf) by Andrew Rosenberg <br>
 Slide: [Normalized Mutual Information: Estimating Clustering Quality](https://course.ccs.neu.edu/cs6140sp15/7_locality_cluster/Assignment-6/NMI.pdf) by Bilal Ahmed  <br>
