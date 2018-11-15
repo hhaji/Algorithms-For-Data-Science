@@ -82,6 +82,7 @@ Slide: [Normalized Mutual Information: Estimating Clustering Quality](https://co
 Slide: [Clustering Analysis](http://www.mind.disco.unimib.it/public/opere/143.pdf) by Enza Messina <br>
 13. **Chapter 18 (Probabilistic Classification) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
 Slides (Probabilistic Classification): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap18.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap18.pptx)  by Mohammed J. Zaki and Wagner Meira Jr. <br>
+Slide: [Naïve Bayes Classifier](http://www.cs.ucr.edu/~eamonn/CE/Bayesian%20Classification%20withInsect_examples.pdf) by Eamonn Keogh <br>
 14. **Chapter 19 (Decision Tree Classifier) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
 Slides (Decision Tree Classifier): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap19.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap19.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
 
