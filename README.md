@@ -76,6 +76,8 @@ Tutorial: [A Tutorial on Spectral Clustering](https://arxiv.org/pdf/0711.0189.pd
 Tutorial: [Matrix Differentiation](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf) by 
 Randal J. Barnes<br>
 Lecture: [Spectral Methods](https://cseweb.ucsd.edu/~dasgupta/291-unsup/lec7.pdf) by Sanjoy Dasgupta <br>
+Paper: [Positive Semidefinite Matrices and Variational Characterizations of Eigenvalues
+](http://www.ee.cuhk.edu.hk/~wkma/engg5781/new_notes/lecture%204-%20PSD-%20note.pdf) by Wing-Kin Ma <br> 
 12. **Chapter 17 (Clustering Validation) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
 Slides of Section 17.1 (Clustering Validation): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap17.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap17.pptx)  by Mohammed J. Zaki and Wagner Meira Jr. <br>
 Slide: [Evaluation (I)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture22.pdf) by Andrew Rosenberg <br>
