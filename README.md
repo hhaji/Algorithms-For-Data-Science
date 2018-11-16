@@ -66,6 +66,7 @@ Paper: [An Impossibility Theorem for Clustering](https://www.cs.cornell.edu/home
 Slide: [Spatial Database Systems](http://dna.fernuni-hagen.de/Tutorial-neu.pdf) by 
 Ralf Hartmut Güting <br>
 11. **Chapter 16 (Spectral and Graph Clustering) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
+**Exercises** 16.5: Q2, Q3, Q6 <br>
 Slides (Spectral and Graph Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap16.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap16.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
 Slide: [Spectral Clustering](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture21.pdf) by Andrew Rosenberg <br>
 Slide: [Spectral Methods](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_spectral.pdf) by Jing Gao <br>
