@@ -3,13 +3,14 @@ Course: Algorithms for Data Science <br>
 [Data Science Center](http://ds.sbu.ac.ir)<br> 
 [Shahid Beheshti University](http://www.sbu.ac.ir/)
 
-## Main TextBooks & Slides:
+## Main TextBooks:
 * [Mining of Massive Datasets](http://www.mmds.org) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.<br>
 Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5 <br>
 
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
 Reading: Chapters 13, 14, 15 (Section 15.1), 16, and 17
 
+## Slides & Papers:
 Recommended Slides & Papers: 
 1. **Introduction to Data Science** <br>
 Slide: [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) by Zico Kolter <br> 
