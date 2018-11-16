@@ -8,7 +8,7 @@ Course: Algorithms for Data Science <br>
 Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5 <br>
 
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
-Reading: Chapters 13, 14, 15 (Section 15.1), 16, and 17
+Reading: Chapters 13, 14, 15 (Section 15.1), 16, 17, 18, and 19
 
 ## Slides & Papers:
 Recommended Slides & Papers: 
