@@ -89,6 +89,7 @@ Slides (Probabilistic Classification): [PDF](http://www.dataminingbook.info/pmwi
 Slide: [Naïve Bayes Classifier](http://www.cs.ucr.edu/~eamonn/CE/Bayesian%20Classification%20withInsect_examples.pdf) by Eamonn Keogh <br>
 14. **Chapter 19 (Decision Tree Classifier) of [Data Mining & Analysis: Fundamental Concepts & Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)** <br>
 Slides (Decision Tree Classifier): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap19.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap19.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
+Slide: [Information Gain](https://homes.cs.washington.edu/~shapiro/EE596/notes/InfoGain.pdf) by Linda Shapiro <br>
 
 ### Extra Slides:
 * [Practical Data Science](http://www.datasciencecourse.org/lectures/) by Zico Kolter
