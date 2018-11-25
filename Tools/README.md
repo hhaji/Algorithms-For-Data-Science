@@ -27,6 +27,7 @@
 * [Word to Markdown](https://word-to-markdown.herokuapp.com)
 
 ## Programming Language 
+### Python
 You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning). Also, we recommend the following references: 
 
 * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/), Second  Edition, by Allen B. Downey (free PDF book)
@@ -35,8 +36,11 @@ You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website
 * [Practical Programming (2nd edition): An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming) by Paul Gries, Jennifer Campbell, and Jason Montojo, 2013.
 * The Python Tutorial ([available from the Python website](https://docs.python.org/3.6/tutorial/))
 
+### R
+Online Book: [R for Data Science](https://r4ds.had.co.nz/index.html) <br>
+
 ### Project Euler
-If you want to solve interesting problems with Python, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)!
+If you want to solve interesting problems to practice Python or R, then we recommend to solve the problems of [Project Euler](https://projecteuler.net/)!
 
 ### Anaconda
 [Anaconda Distribution](https://www.anaconda.com/what-is-anaconda/): With over 6 million users, the open source Anaconda Distribution is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X. It's the industry standard for developing, testing, and training on a single machine.
