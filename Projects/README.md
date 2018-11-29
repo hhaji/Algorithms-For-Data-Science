@@ -1,6 +1,6 @@
 # Course Project Resources:
 Several programming assignments that cover the topic of the course. Students individually implement given assignments in recommended language or tool, and periodically demonstrate the progress to teaching assistants. 
-Students should create a folder inside of this folder (using pull request) containing their projects. The name of each folder starts with the name of data set and it ends with the name of algorithms used to analysis the data.
+ٍEach Student should create his/her own folder inside of this folder (using pull request) containing his/her projects. The name of each folder starts with the name of data set followed by underline and it ends with the familyname of the student (name-of-data_Familyname). The folder should contain a Readme.md file in which any student should explain the result of his/her  analysis.  
 
 The following resources may be helpful for those still undecided about their course project. 
 
@@ -14,7 +14,7 @@ To know more datasets, refer to the following webpage of [KDnuggets](https://www
 * [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
 
 ## Coding:
-You may also find it helpful to read Python and its wonderful libraries (Pandas, NumPy, Scikit-learn, SciPy, Seaborn, Matplotlib), but note that in this course it’s really not necessary to know Python. Instead, just use one of the following softwares to figure things out along the way.
+You may also find it helpful to read Python and its wonderful packages (Pandas, NumPy, Scikit-learn, SciPy, Seaborn, Matplotlib), but note that in this course it’s really not necessary to know Python. Instead, just use one of the following softwares to figure things out along the way.
 
 * [Orange](http://orange.biolab.si/), open source data analytics and mining through visual programming or Python scripting. Components for visualization, rule learning, clustering, model evaluation, and more.
 * [RapidMiner](http://rapidminer.com/), makes data science teams more productive through a unified platform for data prep, machine learning, and model deployment.
