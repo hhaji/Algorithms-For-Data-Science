@@ -3,7 +3,7 @@ To bring together and apply the various topics covered in this course, you will 
 
 ## َUploading and Presentation of Project 
 ### Uploading Project in GitHub
-Students individually implement given assignments in recommended language or softwares. 
+Students individually implement given assignments in recommended softwares. 
 Each Student should create his/her own folder inside of this folder (using pull request) and place his/her files in this folder. The name of each folder starts with the name of data followed by underline and it ends with the familyname of 
 the student (NameOfData_Familyname). The folder should contain a Readme.md file containing the analysis of the result. 
 
