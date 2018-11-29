@@ -1,9 +1,17 @@
 # Course Project Resources:
-Projects are programming assignments that cover the topic of this course. Students individually implement given assignments in recommended language. Each Student should create his/her own folder inside of this folder (using pull request) containing his/her projects. The name of each folder starts with the name of data followed by underline and it ends with the familyname of the student (NameOfData_Familyname). The folder should contain a Readme.md file in which any student should explain the result of his/her  analysis.  
+To bring together and apply the various topics covered in this course, you will work on a project. The goal of the project is to go through the complete knowledge discovery process to answer one or more questions you have about a topic of your own choosing. You will acquire the data, formulate a question (or questions) of interest, perform the data analysis, and communicate the results. Projects are programming assignments that cover the topic of this course. 
 
-The following resources may be helpful for those still undecided about their course project. 
+## َUploading and Presentation of Project 
+### Uploading Project in GitHub
+Students individually implement given assignments in recommended language or softwares. 
+Each Student should create his/her own folder inside of this folder (using pull request) and place his/her files in this folder. The name of each folder starts with the name of data followed by underline and it ends with the familyname of 
+the student (NameOfData_Familyname). The folder should contain a Readme.md file containing the analysis of the result. 
+
+### Project Presentation in the Class
+Each student will explain his/her project in a 10–15 minute presentation to the class. Presentations should clearly convey the project ideas, methods, and results, including the question(s) being addressed, the motivation of the analyses being employed, and relevant evaluations, contributions, and discussion questions.
 
 ## Datasets:
+The following resources may be helpful for those still undecided about their course project.<br> 
 * [DataHub](https://datahub.io/) has a lot of structured data in formats such as RDF and CSV. 
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 * [CrowdFlower Data for Everyone library](http://www.crowdflower.com/data-for-everyone)
