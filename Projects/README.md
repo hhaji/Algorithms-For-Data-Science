@@ -1,6 +1,6 @@
 # Course Project Resources:
 Several programming assignments that cover the topic of the course. Students individually implement given assignments in recommended language or tool, and periodically demonstrate the progress to teaching assistants. 
-ٍEach Student should create his/her own folder inside of this folder (using pull request) containing his/her projects. Note that the name of each folder starts with the name of data set followed by underline and it ends with the familyname of the student (NameOfData_Familyname). The folder should contain a Readme.md file in which any student should explain the result of his/her  analysis.  
+ٍEach Student should create his/her own folder inside of this folder (using pull request) containing his/her projects. The name of each folder starts with the name of data followed by underline and it ends with the familyname of the student (NameOfData_Familyname). The folder should contain a Readme.md file in which any student should explain the result of his/her  analysis.  
 
 The following resources may be helpful for those still undecided about their course project. 
 
