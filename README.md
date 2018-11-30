@@ -98,6 +98,7 @@ Slide: [Information Gain](https://homes.cs.washington.edu/~shapiro/EE596/notes/I
 * [Practical Data Science](http://www.datasciencecourse.org/lectures/) by Zico Kolter
 * [Course: Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/) by U Kang
 * [Crash Course in Spark](http://web.stanford.edu/class/cs246/recitations/spark_intro.pdf) by Daniel Templeton
+* [Statistical Data Mining Tutorials](http://www.cs.cmu.edu/~./awm/tutorials/index.html) by  Andrew W. Moore  <br>
 
 ## Class time, Location and Examinations:
 Saturday and Monday 08:00-09:30 AM (Fall 2018), Room 208. 
