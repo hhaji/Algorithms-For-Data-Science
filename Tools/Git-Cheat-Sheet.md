@@ -62,7 +62,7 @@ git fetch origin | Downloads new data from a remote repository. But it does not 
 git clone "URL" | Copy a repo from URL
 git revert HEAD | Revert the previous commit
 git rebase origin_branch | Merge in the requested branch (origin_branch in this case) and apply the commits that you have made locally to the top of the history without creating a merge commit 
-git submodule add URL/User_name/module_repo name_repo | Add an existing Git repo (module_repo) of a user (User_name) as a submodule of the repo that you are working on
+git submodule add URL/User_name/module_repo name_repo | Add an existing Git repo (module_repo) of a user (User_name) as a submodule of the repo that you are working on. Note that we should use the commands "git add ." and "git commit -m 'message'" to add the new submodule to our repo.
 <br>
 
 * Note that origin should be replaced with remote address if remote was not added. 
