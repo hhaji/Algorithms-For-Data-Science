@@ -16,3 +16,7 @@ By re-running the algorithm, you see a new clustering of label tow images correc
 #### To solve this problem, the number of data will increase.
 
 #### Note 2: I suggest you read the power Point program before running.
+
+
+
+                                                                      jan 2019, DaryaHash
