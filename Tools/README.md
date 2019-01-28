@@ -30,6 +30,7 @@
 ### Python
 You can learn python via [SoloLearn](http://www.sololearn.com/) (A great website for getting started with coding. It offers easy to follow lessons, interspersed with quizzes to help you retain what you are learning). Also, we recommend the following references: 
 
+* [Real Python Tutorials](https://realpython.com)
 * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/), Second  Edition, by Allen B. Downey (free PDF book)
 * [How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html) by Brad Miller and David Ranum
 * [Python for Everybody](https://www.py4e.com/book.php) by Charles R. Severance (free PDF book)
@@ -49,12 +50,14 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Instalation](https://docs.anaconda.com/anaconda/install/)
 
 ### Jupyter
+* [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
 * [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 * [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 * [Built-in Magic Commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
+* [Defining Custom Magics](https://ipython.org/ipython-doc/dev/config/custommagics.html)
+* [Introducing IPython:](https://ipython.org/ipython-doc/3/interactive/tutorial.html) Differences between line-oriented and cell-oriented magic functions 
 
 ## Command Prompt Cheat sheet
 * [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
 * [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf)
-
-
