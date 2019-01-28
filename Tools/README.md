@@ -49,9 +49,10 @@ If you want to solve interesting problems to practice Python or R, then we recom
 * [Getting started with conda](https://conda.io/docs/user-guide/getting-started.html)
 * [Instalation](https://docs.anaconda.com/anaconda/install/)
 
-### Jupyter
+### Jupyter & IPython
 * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
+* [IPython: Beyond Normal Python](https://www.oreilly.com/library/view/python-data-science/9781491912126/ch01.html)
 * [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 * [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 * [Built-in Magic Commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
@@ -61,3 +62,5 @@ If you want to solve interesting problems to practice Python or R, then we recom
 ## Command Prompt Cheat sheet
 * [Windows](http://www1.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf) 
 * [Linux & Mac](http://blog.markpearl.co.za/assets/documents/bash-cheatsheet.pdf)
+
+
