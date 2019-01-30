@@ -1,6 +1,3 @@
 [submodule "How-To-Share-Data"]
 	path = How-To-Share-Data
 	url = https://github.com/jtleek/datasharing
-[submodule "Tools-in-Data-Science"]
-	path = Tools-in-Data-Science
-	url = https://github.com/hhaji/Tools-in-Data-Science
