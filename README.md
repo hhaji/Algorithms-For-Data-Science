@@ -18,7 +18,7 @@ Course: Algorithms for Data Science <br>
   4. [Questions](#Questions)
 ---
 
-## [Main TextBooks:](#Main-TextBooks)
+## Main TextBooks:
 * [Mining of Massive Datasets](http://www.mmds.org) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.<br>
 Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5 <br>
 
