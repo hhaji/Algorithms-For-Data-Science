@@ -8,8 +8,6 @@ Course: Algorithms for Data Science <br>
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
 - [Class time and Location](#Class-time-and-Location)
-- [Prerequisites](#Prerequisites)
-- [Projects](#Projects)
 - [Grading](#Grading)
 - [Prerequisites:](#Prerequisites)
 - [Miscellaneous](#Miscellaneous)
