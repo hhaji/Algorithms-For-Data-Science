@@ -7,7 +7,6 @@ Course: Algorithms for Data Science <br>
 **Index:**
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-  1. [Introduction to Data Science](#Introduction-to-Data-Science)
 - [Class time and Location](#Class-time-and-Location)
 - [Grading](#Grading)
 - [Prerequisites](#Prerequisites)
