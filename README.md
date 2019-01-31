@@ -7,6 +7,7 @@ Course: Algorithms for Data Science <br>
 **Index:**
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
+  1. [Introduction to Data Science](#IDS)
 - [Class time and Location](#Class-time-and-Location)
 - [Grading](#Grading)
 - [Prerequisites:](#Prerequisites)
@@ -26,7 +27,7 @@ Reading: Chapters 13, 14, 15 (Section 15.1), 16, 17, 18, and 19
 
 ## [Slides and Papers:](#Slides-and-Papers)
 Recommended Slides & Papers: 
-1. **Introduction to Data Science** <br>
+1. #### [Introduction to Data Science](#IDS) <br>
 Slide: [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) by Zico Kolter <br> 
 2. **Toolkit Lab: Jupyter NoteBook** <br>
 Slide: [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter <br>
@@ -130,7 +131,7 @@ Final Examination:
 ## [Prerequisites:](#Prerequisites)
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
 
-[Learn Probability and Statistics through interactive visualizations:](https://seeing-theory.brown.edu/index.html#firstPage) Seeing Theory was created by Daniel Kunin while an undergraduate at Brown University. The goal of this website is to make statistics more accessible through interactive visualizations (designed using Mike Bostock’s JavaScript library D3.js).
+[Learn probability and statistics through interactive visualizations:](https://seeing-theory.brown.edu/index.html#firstPage) Seeing Theory was created by Daniel Kunin while an undergraduate at Brown University. The goal of this website is to make statistics more accessible through interactive visualizations (designed using Mike Bostock’s JavaScript library D3.js).
 
 ## [Miscellaneous:](#Miscellaneous)
 #### [Topics:](#Topics)
