@@ -9,7 +9,7 @@ Course: Algorithms for Data Science <br>
 - [Slides and Papers](#Slides-and-Papers)
 - [Class time and Location](#Class-time-and-Location)
 - [Grading](#Grading)
-- [Prerequisites:](#Prerequisites)
+- [Prerequisites](#Prerequisites)
 - [Miscellaneous](#Miscellaneous)
   1. [Topics](#Topics)
   2. [Account](#Account)
