@@ -4,7 +4,7 @@ Course: Algorithms for Data Science <br>
 [Shahid Beheshti University](http://www.sbu.ac.ir/)
 
 ---
-**Index:**
+### **Index:**
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
 - [Class time and Location](#Class-time-and-Location)
