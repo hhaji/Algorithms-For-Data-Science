@@ -129,7 +129,8 @@ Final Examination:
 ## Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
 
-[Learn probability and statistics through interactive visualizations:](https://seeing-theory.brown.edu/index.html#firstPage) Seeing Theory was created by Daniel Kunin while an undergraduate at Brown University. The goal of this website is to make statistics more accessible through interactive visualizations (designed using Mike Bostock’s JavaScript library D3.js).
+[Learn probability and statistics through interactive visualizations:](https://seeing-theory.brown.edu/index.html#firstPage)
+Seeing Theory was created by Daniel Kunin while an undergraduate at Brown University. The goal of this website is to make statistics more accessible through interactive visualizations (designed using Mike Bostock’s JavaScript library D3.js).
 
 ## Topics:
 Have a look at some reports of [Kaggle](https://www.kaggle.com/) or Stanford students ([CS224N](http://nlp.stanford.edu/courses/cs224n/2015/), [CS224D](http://cs224d.stanford.edu/reports_2016.html)) to get some general inspiration.
@@ -140,11 +141,11 @@ It is necessary to have a [GitHub](https://github.com/) account to share your pr
 ## Academic Honor Code:
 Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
 
-We’ll follow the standard of Department of Mathematical Sciences approach: 
+We will follow the standard of Department of Mathematical Sciences approach: 
 * You can get help, but you MUST acknowledge the help on the work you hand in
 * Failure to acknowledge your sources is a violation of the Honor Code
 *  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit
 * You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
 
 ## Questions?
-I'll be having office hours for this course on Saturday and Monday (09:30 AM--12:00 AM). If this isn't convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
+I will be having office hours for this course on Saturday and Monday (09:30 AM--12:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
