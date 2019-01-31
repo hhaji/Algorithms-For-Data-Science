@@ -7,7 +7,6 @@ Course: Algorithms for Data Science <br>
 **Index:**
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-  1. [Introduction to Data Science](#A-A)
 - [Class time and Location](#Class-time-and-Location)
 - [Grading](#Grading)
 - [Prerequisites:](#Prerequisites)
@@ -27,7 +26,7 @@ Reading: Chapters 13, 14, 15 (Section 15.1), 16, 17, 18, and 19
 
 ## [Slides and Papers:](#Slides-and-Papers)
 Recommended Slides & Papers: 
-1. #### [Introduction to Data Science](#A-A) 
+1. Introduction to Data Science <br>
 Slide: [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) by Zico Kolter <br> 
 2. **Toolkit Lab: Jupyter NoteBook** <br>
 Slide: [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter <br>
