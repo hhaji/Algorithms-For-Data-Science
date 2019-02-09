@@ -10,16 +10,6 @@ the student (NameOfData_Familyname). The folder should comprise a Readme.md file
 ### Project Presentation in the Class
 Each student will explain his/her project in a 10–15 minute presentation to the class. Presentations should clearly convey the project ideas, methods, and results, including the question(s) being addressed, the motivation of the analyses being employed, and relevant evaluations, contributions, and discussion questions.
 
-## Datasets:
-The following resources may be helpful for those still undecided about their course project.<br> 
-* [DataHub](https://datahub.io/) has a lot of structured data in formats such as RDF and CSV. 
-* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
-* [CrowdFlower Data for Everyone library](http://www.crowdflower.com/data-for-everyone)
-* [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)
-
-To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
-* [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
-
 ## Coding:
 You may also find it helpful to read Python and its wonderful packages (Pandas, NumPy, Scikit-learn, SciPy, Seaborn, Matplotlib), but note that in this course it’s really not necessary to know Python. Instead, just use one of the following softwares to figure things out along the way.
 
@@ -31,10 +21,3 @@ To know more softwares, refer to the following webpage of [KDnuggets](https://ww
 
 * [Software Suites/Platforms for Analytics, Data Mining, Data Science, and Machine Learning
 Python](https://www.kdnuggets.com/software/suites.html)
-
-## Dealing with Data
-* [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
-* [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
-* [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
-* Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
-* Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang
