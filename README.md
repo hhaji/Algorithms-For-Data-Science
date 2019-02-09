@@ -1,7 +1,6 @@
 # [Algorithms For Data Science (Fall 2018)](http://facultymembers.sbu.ac.ir/hhaji/algorithms-for-data-science/)
 Course: Algorithms for Data Science <br>
-[Data Science Center](http://ds.sbu.ac.ir)<br> 
-[Shahid Beheshti University](http://www.sbu.ac.ir/)
+[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)
 
 ---
 ### **Index:**
