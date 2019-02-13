@@ -1,7 +1,9 @@
 # Course: Algorithms For Data Science (Fall 2018)
 [Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)
+Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/)
 
 ---
+
 ### **Index:**
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
@@ -13,6 +15,7 @@
 - [Account](#Account)
 - [Academic Honor Code](#Academic-Honor-Code)
 - [Questions](#Questions)
+
 ---
 
 ## Main TextBooks:
