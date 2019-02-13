@@ -6,8 +6,9 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 ### **Index:**
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-- [Class time and Location](#Class-time-and-Location)
+- [Class Time and Location](#Class-Time-and-Location)
 - [Grading](#Grading)
+  - [Two Written Exams](#Two-Written-Exams)
 - [Prerequisites](#Prerequisites)
   - [Linear Algebra](#Linear-Algebra)
   - [Probability and Statistics](#Probability-and-Statistics)
@@ -20,14 +21,14 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 
 ---
 
-## Main TextBooks:
+## <a name="Main-TextBooks"></a>Main TextBooks:
 * [Mining of Massive Datasets](http://www.mmds.org) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.<br>
 Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5 <br>
 
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
 Reading: Chapters 13, 14, 15 (Section 15.1), 16, 17, 18, and 19
 
-## Slides and Papers
+## <a name="Slides-and-Papers"></a>Slides and Papers
 Recommended Slides & Papers: 
 1. Introduction to Data Science <br>
 Slide: [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) by Zico Kolter <br> 
@@ -111,45 +112,45 @@ Slide: [A Tutorial on Bayesian Networks](http://www.cs.ucf.edu/~mingjie/ECM6308/
 Slides (Decision Tree Classifier): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap19.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap19.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
 Slide: [Information Gain](https://homes.cs.washington.edu/~shapiro/EE596/notes/InfoGain.pdf) by Linda Shapiro <br>
 
-### Extra Slides:
+### <a name="Extra-Slides"></a>Extra Slides:
 * [Practical Data Science](http://www.datasciencecourse.org/lectures/) by Zico Kolter
 * [Course: Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/) by U Kang
 * [Crash Course in Spark](http://web.stanford.edu/class/cs246/recitations/spark_intro.pdf) by Daniel Templeton
 * [Statistical Data Mining Tutorials](http://www.cs.cmu.edu/~./awm/tutorials/index.html) by  Andrew W. Moore  <br>
 
-## Class time and Location
+## <a name="Class-Time-and-Location"></a>Class time and Location
 Saturday and Monday 08:00-09:30 AM (Fall 2018), Room 208. 
 
-### Two written exams:
-Midterm Examination: Monday 1397/09/12, 08:00-10:00 <br>
-Final Examination: 
-
-## Grading:
+## <a name="Grading"></a>Grading:
 * Homework – 15% <br>
 — Will consist of mathematical problems and/or programming assignments.
 * Midterm – 35%
 * Endterm – 50%
 
-## Prerequisites:
+### <a name="Two-Written-Exams"></a>Two Written Exams:
+Midterm Examination: Monday 1397/09/12, 08:00-10:00 <br>
+Final Examination: 
+
+## <a name="Prerequisites"></a>Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
 
-### Linear Algebra:
+### <a name="Linear-Algebra"></a>Linear Algebra:
 - Video: Professor Gilbert Strang's [Video Lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) on linear algebra.
 
-### Probability and Statistics:
+### <a name="Probability-and-Statistics"></a>Probability and Statistics:
 - [Learn Probability and Statistics Through Interactive Visualizations:](https://seeing-theory.brown.edu/index.html#firstPage) Seeing Theory was created by Daniel Kunin while an undergraduate at Brown University. The goal of this website is to make statistics more accessible through interactive visualizations (designed using Mike Bostock’s JavaScript library D3.js).
 - [Statistics and Probability:](https://stattrek.com) This website provides training and tools to help you solve statistics problems quickly, easily, and accurately - without having to ask anyone for help.
 - Jupyter NoteBooks: [Introduction to Statistics](https://github.com/rouseguy/intro2stats) by Bargava
 - Video: Professor John Tsitsiklis's [Video Lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/) on Applied Probability.
 - Video: Professor Krishna Jagannathan's [Video Lectures](https://nptel.ac.in/courses/108106083/) on Probability Theory.
 
-## Topics:
+## <a name="Topics"></a>Topics:
 Have a look at some reports of [Kaggle](https://www.kaggle.com/) or Stanford students ([CS224N](http://nlp.stanford.edu/courses/cs224n/2015/), [CS224D](http://cs224d.stanford.edu/reports_2016.html)) to get some general inspiration.
 
-## Account:
+## <a name="Account"></a>Account:
 It is necessary to have a [GitHub](https://github.com/) account to share your projects. It offers plans for both private repositories and free accounts. Github is like the hammer in your toolbox, therefore, you need to have it!
 
-## Academic Honor Code:
+## <a name="Academic-Honor-Code"></a>Academic Honor Code:
 Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
 
 We will follow the standard of Department of Mathematical Sciences approach: 
@@ -158,5 +159,5 @@ We will follow the standard of Department of Mathematical Sciences approach:
 *  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit
 * You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
 
-## Questions?
+## <a name="Questions"></a>Questions?
 I will be having office hours for this course on Monday (09:30 AM--12:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
