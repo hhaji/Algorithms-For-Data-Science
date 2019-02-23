@@ -16,8 +16,8 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 - [Academic Honor Code](#Academic-Honor-Code)
 - [Questions](#Questions)
 - Miscellaneous
-  - [Data](https://github.com/hhaji/Algorithms-For-Data-Science/tree/master/Data)
-  - [Projects](https://github.com/hhaji/Algorithms-For-Data-Science/tree/master/Projects)  
+  - [Data](https://hhaji.github.io/Algorithms-For-Data-Science/Data/)
+  - [Projects](https://hhaji.github.io/Algorithms-For-Data-Science/Projects/)  
 
 ---
 
