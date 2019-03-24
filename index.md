@@ -33,6 +33,7 @@ Recommended Slides & Papers:
 1. Introduction to Data Science <br>
 Slide: [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) by Zico Kolter <br>
 Slide: [Introduction to Data Science](https://github.com/justmarkham/DAT8/blob/master/slides/01_intro_to_data_science.pdf) by Kevin Markham <br> 
+Paper: [Analyzing the Analyzers: An Introspective Survey of Data Scientists and Their Work](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf)
 2. **Toolkit Lab: Jupyter NoteBook** <br>
 Slide: [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter <br>
 3. **Toolkit Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)** <br>
