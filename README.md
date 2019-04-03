@@ -7,6 +7,29 @@ The Webpage of the Course: [Algorithms For Data Science](https://hhaji.github.io
 ### **Index:**
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
+    1. Lecture 1: [Introduction to Data Science](#L1) 
+    2. Lecture 2: [Toolkit Lab: Jupyter NoteBook](#L2) 
+    3. Lecture 3: [Toolkit Lab: Git & GitHub](#L3)  
+    4. Lecture 4: [Data Mining](#L4)  
+    5. Lecture 5: [MapReduce and the New Software Stack](#L5)  
+    6. Lecture 6: [Link Analysis](#L6) 
+    ### <a name="L6"></a>Link Analysis 
+    7. Lecture 7: [Toolkit Lab: Orange & Weka](#L7) 
+    ### <a name="L7"></a>Toolkit Lab: Orange & Weka 
+    8. Lecture 8: [Representative-Based Clustering](#L8) 
+    ### <a name="L8"></a>Representative-Based Clustering 
+    9. Lecture 9: [Hierarchical Clustering](#L9) 
+    ### <a name="L9"></a>Hierarchical Clustering 
+    10. Lecture 10: [Density-Based Clustering](#L10) 
+    ### <a name="L10"></a>Density-Based Clustering 
+    11. Lecture 11: [Spectral and Graph Clustering](#L11) 
+    ### <a name="L11"></a>Spectral and Graph Clustering 
+    12. Lecture 12: [Clustering Validation](#L12) 
+    ### <a name="L12"></a>Clustering Validation 
+    13. Lecture 13: [Probabilistic Classification](#L13) 
+    ### <a name="L13"></a>Probabilistic Classification 
+    14. Lecture 14: [Decision Tree Classifier](#L14) 
+    ### <a name="L14"></a>Decision Tree Classifier 
 - [Class Time and Location](#Class-Time-and-Location)
 - [Grading](#Grading)
   - [Two Written Exams](#Two-Written-Exams)
@@ -31,21 +54,27 @@ Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5 <br>
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
 Reading: Chapters 13, 14, 15 (Section 15.1), 16, 17, 18, and 19
 
+
+
+
+
+
+
 ## <a name="Slides-and-Papers"></a>Slides and Papers
 Recommended Slides & Papers: 
-1. Introduction to Data Science <br>
+1. ### <a name="L1"></a>Introduction to Data Science 
 Slide: [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) by Zico Kolter <br>
 Slide: [Introduction to Data Science](https://github.com/justmarkham/DAT8/blob/master/slides/01_intro_to_data_science.pdf) by Kevin Markham <br> 
 Paper: [Analyzing the Analyzers: An Introspective Survey of Data Scientists and Their Work](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf)
-2. **Toolkit Lab: Jupyter NoteBook** <br>
+2. ### <a name="L2"></a>Toolkit Lab: Jupyter NoteBook 
 Slide: [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter <br>
-3. **Toolkit Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)** <br>
+3. ### <a name="L3"></a>Toolkit Lab: [Git](https://git-scm.com) & [GitHub](https://github.com) 
 Slide: [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino <br>
 Slide: [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire <br>
-4. **Chapter 1 ( Data Mining) of [Mining of Massive Datasets](http://www.mmds.org)** <br>
+4. ### <a name="L4"></a>Data Mining: Chapter 1 of [Mining of Massive Datasets](http://www.mmds.org) 
 Slide: [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf) by U Kang <br>
 Slide: [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by Irene Finocchi <br>
-5. **Chapter 2 (MapReduce and the New Software Stack) of [Mining of Massive Datasets](http://www.mmds.org)** <br>
+5. ### <a name="L5"></a>MapReduce and the New Software Stack: Chapter 2 of [Mining of Massive Datasets](http://www.mmds.org) 
 Slide of Sections 2.1 & 2.2 (Distributed File Systems & MapReduce): [Introduction & Mapreduce](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf) by Jure Leskovec <br>
 Slide of Section 2.3 (Algorithms Using MapReduc): [Relational Algebra with MapReduce](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid188771.pdf) by Damiano Carra <br>
 Slide: [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski <br> 
