@@ -23,6 +23,8 @@ The Webpage of the Course: [Algorithms For Data Science](https://hhaji.github.io
 ---
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
+![Book 1](/Images/MMDS.jpg) ![Book 2](/Images/DM.jpg)
+
 * [Mining of Massive Datasets](http://www.mmds.org) by Jure Leskovec, Anand Rajaraman, and Jeff Ullman.<br>
 Reading: Chapter 1, Chapter 2 (Sections: 2.1, 2.2, & 2.3), and Chapter 5 <br>
 
