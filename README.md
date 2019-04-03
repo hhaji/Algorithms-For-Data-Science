@@ -148,7 +148,7 @@ Saturday and Monday 08:00-09:30 AM (Fall 2018), Room 208.
 
 ### <a name="Two-Written-Exams"></a>Two Written Exams:
 Midterm Examination: Monday 1397/09/12, 08:00-10:00 <br>
-Final Examination: 
+Final Examination: Sunday 1397/10/16, 08:30-10:30 <br>
 
 ## <a name="Prerequisites"></a>Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
