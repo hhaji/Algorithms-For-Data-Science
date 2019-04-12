@@ -63,28 +63,35 @@ Recommended Slides & Papers:
     - Slide of Sections 2.1 & 2.2 (Distributed File Systems & MapReduce): [Introduction & Mapreduce](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf) by Jure Leskovec <br>
     - Slide of Section 2.3 (Algorithms Using MapReduc): [Relational Algebra with MapReduce](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid188771.pdf) by Damiano Carra <br>
     - Slide: [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski <br> 
-    - Slide: [MapReduce in Spark II](http://www.cs.put.poznan.pl/kdembczynski/lectures/pmds/lectures/mapreduce-II.pdf) by Krzysztof Dembczynski <br>
     - Slide: [Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt <br>
 6. ### <a name="L6"></a>Link Analysis: Chapter 5 of [Mining of Massive Datasets](http://www.mmds.org)  
     - Slide of Sections 5.1, 5.2 (PageRank, Efficient Computation of PageRank): [Analysis of Large Graphs 1](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
     - Slide of Sections 5.3-5.5 (Topic-Sensitive PageRank, Link Spam, Hubs and Authorities): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
     - Slide: [The Linear Algebra Aspects of PageRank](http://www4.ncsu.edu/~ipsen/ps/slides_dagstuhl07071.pdf) by Ilse Ipsen <br>
-Some applications of PageRank:<br>
-    - Paper: [A Survey on Proximity Measures for Social Networks](https://link.springer.com/chapter/10.1007/978-3-642-34213-4_13) by Sara Cohen, Benny Kimelfeld, Georgia Koutrika <br>
+```
+Extra Resources:
+```
+- Paper: [A Survey on Proximity Measures for Social Networks](https://link.springer.com/chapter/10.1007/978-3-642-34213-4_13) by Sara Cohen, Benny Kimelfeld, Georgia Koutrika <br>
 7. ### <a name="L7"></a>Toolkit Lab: [Orange](https://orange.biolab.si) & [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  
     - Orange: [Youtube Tutorial of Orange](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g) & [Widget Catalog of Orange](https://orange.biolab.si/toolbox/) <br>
+    ```
+    Extra Resources:
+    ```
     - Weka: [Data Mining with Weka](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) <br>
     - [Free online courses](https://www.cs.waikato.ac.nz/ml/weka/courses.html) on data mining with machine learning techniques in Weka. Also, you can register the course via [FutureLearn Education Platform](https://www.futurelearn.com/courses/data-mining-with-weka). <br>
 8. ### <a name="L8"></a>Representative-Based Clustering: Chapter 13 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
     **Exercises** 13.5: Q2, Q4, Q6, Q7 <br>
     - Slides (Representative-based Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap13.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap13.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
     - Slide: [Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson <br>
-    - Slide: [Tutorial on Estimation and Multivariate Gaussians](http://ttic.uchicago.edu/~shubhendu/Slides/Estimation.pdf) by Shubhendu Trivedi <br>
     - Slide: [Introduction to Machine Learning (Clustering and EM)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/EM.pdf) by Barnabás Póczos & Aarti Singh <br>
-    - Slide: [Mixture Model](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_mixture.pdf) by Jing Gao <br>
     - Tutorial: [The Expectation Maximization Algorithm](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) by 
 Sean Borman <br>
     - Tutorial: [What is Bayesian Statistics?](http://www.bandolier.org.uk/painres/download/whatis/What_is_Bay_stats.pdf) by John W Stevens<br>
+    ```
+    Extra Resources:
+    ```
+    - Slide: [Tutorial on Estimation and Multivariate Gaussians](http://ttic.uchicago.edu/~shubhendu/Slides/Estimation.pdf) by Shubhendu Trivedi <br>
+    - Slide: [Mixture Model](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_mixture.pdf) by Jing Gao <br>
     - Paper: [Fast Exact k-Means, k-Medians and Bregman Divergence Clustering in 1D](https://cs.au.dk/~larsen/papers/1dkmeans.pdf) <br>
     - Paper: [k-Means Requires Exponentially Many Iterations Even in the Plane](http://cseweb.ucsd.edu/~avattani/papers/kmeans.pdf) by Andrea Vattani <br>
     - Book: [Understanding Machine Learning: From Theory to Algorithms](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132) by Shai Shalev-Shwartz and Shai Ben-David <br>
