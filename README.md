@@ -68,10 +68,10 @@ Recommended Slides & Papers:
     - Slide of Sections 5.1, 5.2 (PageRank, Efficient Computation of PageRank): [Analysis of Large Graphs 1](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
     - Slide of Sections 5.3-5.5 (Topic-Sensitive PageRank, Link Spam, Hubs and Authorities): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
     - Slide: [The Linear Algebra Aspects of PageRank](http://www4.ncsu.edu/~ipsen/ps/slides_dagstuhl07071.pdf) by Ilse Ipsen <br>
-```
-Extra Resources:
-```
-- Paper: [A Survey on Proximity Measures for Social Networks](https://link.springer.com/chapter/10.1007/978-3-642-34213-4_13) by Sara Cohen, Benny Kimelfeld, Georgia Koutrika <br>
+    ```
+    Extra Resources:
+    ```
+    - Paper: [A Survey on Proximity Measures for Social Networks](https://link.springer.com/chapter/10.1007/978-3-642-34213-4_13) by Sara Cohen, Benny Kimelfeld, Georgia Koutrika <br>
 7. ### <a name="L7"></a>Toolkit Lab: [Orange](https://orange.biolab.si) & [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  
     - Orange: [Youtube Tutorial of Orange](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g) & [Widget Catalog of Orange](https://orange.biolab.si/toolbox/) <br>
     ```
@@ -99,9 +99,12 @@ Sean Borman <br>
     **Exercises** 14.4: Q4 <br>
     - Slides (Hierarchical Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap14.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap14.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
     - Slide: [Hierarchical Clustering](http://statweb.stanford.edu/~jtaylo/courses/stats202/restricted/notes/hierarchical.pdf) by Jonathan Taylor <br>
+    - Slide: [Data Structures (Heap)](http://www.cs.nthu.edu.tw/~wkhon/ds/ds11/lecture/lecture4.pdf) by Wing-Kai Hon <br>
+    ```
+    Extra Resources:
+    ```
     - Slide: [Hierarchical Clustering for Gene Expression Data Analysis](http://homes.di.unimi.it/valenti/SlideCorsi/MB0910/HierarchicalClustering.pdf) by Giorgio Valentini <br>
     - Slide: [Hierarchical Clustering](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_hierarchical.pdf) by Jing Gao <br>
-    - Slide: [Data Structures (Heap)](http://www.cs.nthu.edu.tw/~wkhon/ds/ds11/lecture/lecture4.pdf) by Wing-Kai Hon <br>
     - Slide: [Binary Heaps](https://courses.cs.washington.edu/courses/cse373/06sp/handouts/lecture10.pdf) <br>
     - A Short Note: [Proof for the Complexity of Building a Heap](http://www.cse.msu.edu/~huding/331material/timecomplexity_for_heap.pdf) by Hu Ding <br>
     - Lecture: [Finding Meaningful Clusters in Data](https://cseweb.ucsd.edu/~dasgupta/291-unsup/lec5.pdf) by Sanjoy Dasgupta <br>
@@ -114,8 +117,11 @@ Ralf Hartmut Güting <br>
     **Exercises** 16.5: Q2, Q3, Q6 <br>
     - Slides (Spectral and Graph Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap16.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap16.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
     - Slide: [Spectral Clustering](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture21.pdf) by Andrew Rosenberg <br>
-    - Slide: [Spectral Methods](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_spectral.pdf) by Jing Gao <br>
     - Slide: [Introduction to Spectral Clustering](http://www.cvl.isy.liu.se:82/education/graduate/spectral-clustering/SC_course_part1.pdf) by Vasileios Zografos and Klas Nordberg <br>
+    ```
+    Extra Resources:
+    ```
+    - Slide: [Spectral Methods](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_spectral.pdf) by Jing Gao <br>
     - Tutorial: [A Tutorial on Spectral Clustering](https://arxiv.org/pdf/0711.0189.pdf) by Ulrike von Luxburg <br>
     - Tutorial: [Matrix Differentiation](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf) by 
 Randal J. Barnes<br>
@@ -125,13 +131,19 @@ Randal J. Barnes<br>
 12. ### <a name="L12"></a>Clustering Validation: Chapter 17 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
     - Slides of Section 17.1 (Clustering Validation): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap17.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap17.pptx)  by Mohammed J. Zaki and Wagner Meira Jr. <br>
     - Slide: [Clustering Analysis](http://www.mind.disco.unimib.it/public/opere/143.pdf) by Enza Messina <br>
-    - Slide: [Evaluation (I)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture22.pdf) by Andrew Rosenberg <br>
-    - Slide: [Clustering Evaluation (II)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture23.pdf) by Andrew Rosenberg <br>
-    - Slide: [Normalized Mutual Information: Estimating Clustering Quality](https://course.ccs.neu.edu/cs6140sp15/7_locality_cluster/Assignment-6/NMI.pdf) by Bilal Ahmed  <br>
     - Slide: [Information Theory](http://www2.eng.cam.ac.uk/~js851/3F1MM13/L1.pdf) by Jossy Sayir <br>
+    - Slide: [Normalized Mutual Information: Estimating Clustering Quality](https://course.ccs.neu.edu/cs6140sp15/7_locality_cluster/Assignment-6/NMI.pdf) by Bilal Ahmed  <br>
+    ```
+    Extra Resources:
+    ```
+    - Slide: [Clustering Evaluation (II)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture23.pdf) by Andrew Rosenberg <br>
+    - Slide: [Evaluation (I)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture22.pdf) by Andrew Rosenberg <br>
 13. ### <a name="L13"></a>Probabilistic Classification: Chapter 18 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
     - Slides (Probabilistic Classification): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap18.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap18.pptx)  by Mohammed J. Zaki and Wagner Meira Jr. <br>
     - Slide: [Naïve Bayes Classifier](http://www.cs.ucr.edu/~eamonn/CE/Bayesian%20Classification%20withInsect_examples.pdf) by Eamonn Keogh <br>
+    ```
+    Extra Resources:
+    ```
     - Slide: [Bayes Nets for Representing and Reasoning About Uncertainty](http://www.cs.cmu.edu/~./awm/tutorials/bayesnet09.pdf) by Andrew W. Moore <br>
     - Slide: [A Tutorial on Bayesian Networks](http://www.cs.ucf.edu/~mingjie/ECM6308/rand0.pdf) by Weng-Keen Wong <br>
 14. ### <a name="L14"></a>Decision Tree Classifier: Chapter 19 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
