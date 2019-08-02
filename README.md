@@ -48,23 +48,53 @@ Reading: Chapters 13, 14, 15 (Section 15.1), 16, 17, 18, and 19
 ## <a name="Slides-and-Papers"></a>Slides and Papers
 Recommended Slides & Papers: 
 1. ### <a name="L1"></a>Introduction to Data Science  
+
+    ```
+    Required Reading:
+    ```
+
     - Slide: [Introduction to Data Science](http://www.datasciencecourse.org/notes/intro/intro.pdf) by Zico Kolter <br>
     - Slide: [Introduction to Data Science](https://github.com/justmarkham/DAT8/blob/master/slides/01_intro_to_data_science.pdf) by Kevin Markham <br> 
     - Paper: [Analyzing the Analyzers: An Introspective Survey of Data Scientists and Their Work](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf)
 2. ### <a name="L2"></a>Toolkit Lab: Jupyter NoteBook  
+
+    ```
+    Required Reading:
+    ```
+
     - Slide: [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter <br>
 3. ### <a name="L3"></a>Toolkit Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)  
+
+    ```
+    Required Reading:
+    ```
+
     - Slide: [An Introduction to Git](https://elite.polito.it/files/courses/03FYZ/2017/slide/Git-01-intro.pdf) by Politecnico di Torino <br>
     - Slide: [GIT for Beginners](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf) by Anthony Baire <br>
 4. ### <a name="L4"></a>Introduction to Data Mining: Chapter 1 of [Mining of Massive Datasets](http://www.mmds.org)  
+
+    ```
+    Required Reading:
+    ```
+
     - Slide: [Introduction to Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/L2-basics.pdf) by U Kang <br>
     - Slide: [Bonferroni’s Principle](http://twiki.di.uniroma1.it/pub/BDC/Schedule/lecture6_march31_2014.pdf) by Irene Finocchi <br>
-5. ### <a name="L5"></a>MapReduce and the New Software Stack: Chapter 2 of [Mining of Massive Datasets](http://www.mmds.org)  
+5. ### <a name="L5"></a>MapReduce and the New Software Stack: Chapter 2 of [Mining of Massive Datasets](http://www.mmds.org)
+
+    ```
+    Required Reading:
+    ```
+
     - Slide of Sections 2.1 & 2.2 (Distributed File Systems & MapReduce): [Introduction & Mapreduce](http://snap.stanford.edu/class/cs246-2015/slides/01-mapreduce.pdf) by Jure Leskovec <br>
     - Slide of Section 2.3 (Algorithms Using MapReduc): [Relational Algebra with MapReduce](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid188771.pdf) by Damiano Carra <br>
     - Slide: [MapReduce](https://www.cs.rutgers.edu/~pxk/417/notes/content/17-mapreduce-slides.pdf) by Paul Krzyzanowski <br> 
     - Slide: [Introduction to Database Systems (Relational Algebra)](http://www.inf.unibz.it/~nutt/IDBs1011/IDBSlides/7-db-relAlg.pdf) by Werner Nutt <br>
 6. ### <a name="L6"></a>Link Analysis: Chapter 5 of [Mining of Massive Datasets](http://www.mmds.org)  
+
+    ```
+    Required Reading:
+    ```
+
     - Slide of Sections 5.1, 5.2 (PageRank, Efficient Computation of PageRank): [Analysis of Large Graphs 1](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
     - Slide of Sections 5.3-5.5 (Topic-Sensitive PageRank, Link Spam, Hubs and Authorities): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)<br>
     - Slide: [The Linear Algebra Aspects of PageRank](http://www4.ncsu.edu/~ipsen/ps/slides_dagstuhl07071.pdf) by Ilse Ipsen <br>
@@ -73,13 +103,24 @@ Recommended Slides & Papers:
     ```
     - Paper: [A Survey on Proximity Measures for Social Networks](https://link.springer.com/chapter/10.1007/978-3-642-34213-4_13) by Sara Cohen, Benny Kimelfeld, Georgia Koutrika <br>
 7. ### <a name="L7"></a>Toolkit Lab: [Orange](https://orange.biolab.si) & [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  
+
+    ```
+    Required Reading:
+    ```
+
     - Orange: [Youtube Tutorial of Orange](https://www.youtube.com/channel/UClKKWBe2SCAEyv7ZNGhIe4g) & [Widget Catalog of Orange](https://orange.biolab.si/toolbox/) <br>
     ```
     Extra Resources:
     ```
     - Weka: [Data Mining with Weka](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) <br>
     - [Free online courses](https://www.cs.waikato.ac.nz/ml/weka/courses.html) on data mining with machine learning techniques in Weka. Also, you can register the course via [FutureLearn Education Platform](https://www.futurelearn.com/courses/data-mining-with-weka). <br>
-8. ### <a name="L8"></a>Representative-Based Clustering: Chapter 13 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
+8. ### <a name="L8"></a>Representative-Based Clustering
+
+    ```
+    Required Reading:
+    ```
+
+    - Chapter 13 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
     **Exercises** 13.5: Q2, Q4, Q6, Q7 <br>
     - Slides (Representative-based Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap13.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap13.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
     - Slide: [Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson <br>
@@ -95,7 +136,13 @@ Sean Borman <br>
     - Paper: [Fast Exact k-Means, k-Medians and Bregman Divergence Clustering in 1D](https://cs.au.dk/~larsen/papers/1dkmeans.pdf) <br>
     - Paper: [k-Means Requires Exponentially Many Iterations Even in the Plane](http://cseweb.ucsd.edu/~avattani/papers/kmeans.pdf) by Andrea Vattani <br>
     - Book: [Understanding Machine Learning: From Theory to Algorithms](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132) by Shai Shalev-Shwartz and Shai Ben-David <br>
-9. ### <a name="L9"></a>Hierarchical Clustering: Chapter 14 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
+9. ### <a name="L9"></a>Hierarchical Clustering 
+
+    ```
+    Required Reading:
+    ```
+
+    - Chapter 14 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
     **Exercises** 14.4: Q4 <br>
     - Slides (Hierarchical Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap14.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap14.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
     - Slide: [Hierarchical Clustering](http://statweb.stanford.edu/~jtaylo/courses/stats202/restricted/notes/hierarchical.pdf) by Jonathan Taylor <br>
@@ -109,7 +156,13 @@ Sean Borman <br>
     - A Short Note: [Proof for the Complexity of Building a Heap](http://www.cse.msu.edu/~huding/331material/timecomplexity_for_heap.pdf) by Hu Ding <br>
     - Lecture: [Finding Meaningful Clusters in Data](https://cseweb.ucsd.edu/~dasgupta/291-unsup/lec5.pdf) by Sanjoy Dasgupta <br>
     - Paper: [An Impossibility Theorem for Clustering](https://www.cs.cornell.edu/home/kleinber/nips15.pdf) by Jon Kleinberg <br>
-10. ### <a name="L10"></a>Density-Based Clustering: Chapter 15 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
+10. ### <a name="L10"></a>Density-Based Clustering
+
+    ```
+    Required Reading:
+    ```
+    
+    - Chapter 15 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
     - Slides of Section 15.1 (Density-based Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap15.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap15.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
     - Slide: [Spatial Database Systems](http://dna.fernuni-hagen.de/Tutorial-neu.pdf) by 
 Ralf Hartmut Güting <br>
@@ -138,7 +191,13 @@ Randal J. Barnes<br>
     ```
     - Slide: [Clustering Evaluation (II)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture23.pdf) by Andrew Rosenberg <br>
     - Slide: [Evaluation (I)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture22.pdf) by Andrew Rosenberg <br>
-13. ### <a name="L13"></a>Probabilistic Classification: Chapter 18 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
+13. ### <a name="L13"></a>Probabilistic Classification 
+
+    ```
+    Required Reading:
+    ```
+
+    - Chapter 18 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
     - Slides (Probabilistic Classification): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap18.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap18.pptx)  by Mohammed J. Zaki and Wagner Meira Jr. <br>
     - Slide: [Naïve Bayes Classifier](http://www.cs.ucr.edu/~eamonn/CE/Bayesian%20Classification%20withInsect_examples.pdf) by Eamonn Keogh <br>
     ```
@@ -146,7 +205,13 @@ Randal J. Barnes<br>
     ```
     - Slide: [Bayes Nets for Representing and Reasoning About Uncertainty](http://www.cs.cmu.edu/~./awm/tutorials/bayesnet09.pdf) by Andrew W. Moore <br>
     - Slide: [A Tutorial on Bayesian Networks](http://www.cs.ucf.edu/~mingjie/ECM6308/rand0.pdf) by Weng-Keen Wong <br>
-14. ### <a name="L14"></a>Decision Tree Classifier: Chapter 19 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
+14. ### <a name="L14"></a>Decision Tree Classifier 
+
+    ```
+    Required Reading:
+    ```
+    
+    - Chapter 19 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
     - Slides (Decision Tree Classifier): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap19.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap19.pptx) by Mohammed J. Zaki and Wagner Meira Jr. <br>
     - Slide: [Information Gain](https://homes.cs.washington.edu/~shapiro/EE596/notes/InfoGain.pdf) by Linda Shapiro <br>
 
