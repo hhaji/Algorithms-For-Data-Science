@@ -62,7 +62,7 @@ Recommended Slides & Papers:
     Required Reading:
     ```
 
-    - Slide: [Jupyter NoteBook Lab](http://www.datasciencecourse.org/notes/jupyter/jupyter.pdf) by Zico Kolter <br>
+    - Slide: [Practical Data Science: Jupyter NoteBook Lab](http://www.datasciencecourse.org/slides/jupyter.pdf) by Zico Kolter    
 3. ### <a name="L3"></a>Toolkit Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)  
 
     ```
